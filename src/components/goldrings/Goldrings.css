@@ -1,0 +1,278 @@
+.product_container {
+  height: auto;
+  margin: 30px 0;
+}
+.product_container .ant-card-body {
+  padding: 0;
+}
+.product_contact {
+  display: none;
+  background: none;
+  padding: 30px;
+  color: white;
+}
+.product_contact .ant-btn-primary {
+  color: #fff;
+  background-color: #000000c9;
+  border-color: #001529f0;
+}
+.show-desc .product_contact {
+  display: block;
+  background: #0000005e;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.product_contact button {
+  position: absolute;
+  /*  bottom: 15px;
+  right: 15px;*/
+  top: 43%;
+  left: 35%;
+}
+.product_img {
+  height: 400px;
+}
+.product_description {
+  width: 100%;
+  display: block;
+  color: black;
+  padding: 0;
+  margin: 0;
+  bottom: 0;
+}
+.product_description div {
+  font-size: 14px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1;
+  border: 1px solid #e8e8e8;
+  border-top: 0;
+  padding: 10px 0;
+  background: #e8e3e3;
+  opacity: 0.5;
+}
+.product {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 270px !important;
+  border: 1px solid #e8e8e8;
+  padding-bottom: 5px;
+  border: 1px solid #e8e8e8 !important;
+}
+#productGoldRing1 {
+  background-image: url('images/1.JPG');
+}
+#productGoldRing2 {
+  background-image: url('images/2.png');
+}
+#productGoldRing3 {
+  background-image: url('images/3.png');
+}
+#productGoldRing4 {
+  background-image: url('images/4.png');
+}
+#productGoldRing5 {
+  background-image: url('images/5.png');
+}
+#productGoldRing6 {
+  background-image: url('images/6.jpg');
+}
+#productGoldRing7 {
+  background-image: url('images/7.gif');
+}
+#productGoldRing8 {
+  background-image: url('images/8.jpg');
+}
+#productGoldRing9 {
+  background-image: url('images/9.jpg');
+}
+#productGoldRing10 {
+  background-image: url('images/10.jpg');
+}
+#productGoldRing11 {
+  background-image: url('images/11.jpg');
+}
+#productGoldRing12 {
+  background-image: url('images/12.gif');
+}
+#productGoldRing13 {
+  background-image: url('images/13.gif');
+}
+#productGoldRing14 {
+  background-image: url('images/14.gif');
+}
+#productGoldRing15 {
+  background-image: url('images/15.gif');
+}
+#productGoldRing16 {
+  background-image: url('images/16.gif');
+}
+#productGoldRing17 {
+  background-image: url('images/17.gif');
+}
+#productGoldRing18 {
+  background-image: url('images/18.gif');
+}
+#productGoldRing19 {
+  background-image: url('images/19.jpg');
+}
+#productGoldRing20 {
+  background-image: url('images/20.gif');
+}
+#productGoldRing21 {
+  background-image: url('images/21.gif');
+}
+#productGoldRing22 {
+  background-image: url('images/22.gif');
+}
+
+#productGoldRing23 {
+  background-image: url('images/23.jpg');
+}
+#productGoldRing24 {
+  background-image: url('images/24.gif');
+}
+#productGoldRing25 {
+  background-image: url('images/25.jpg');
+}
+
+#productGoldRing26 {
+  background-image: url('images/26.jpg');
+}
+#productGoldRing27 {
+  background-image: url('images/27.jpg');
+}
+#productGoldRing28 {
+  background-image: url('images/28.gif');
+}
+#productGoldRing29 {
+  background-image: url('images/29.jpg');
+}
+#productGoldRing30 {
+  background-image: url('images/30.jpg');
+}
+#productGoldRing31 {
+  background-image: url('images/31.jpg');
+}
+
+/*#productGoldRing32 {
+  background-image: url('images/32.jpg');
+}*/
+#productGoldRing33 {
+  background-image: url('images/33.jpg');
+}
+#productGoldRing34 {
+  background-image: url('images/34.jpg');
+}
+/*#productGoldRing35 {
+  background-image: url('images/35.jpg');
+}*/
+#productGoldRing36 {
+  background-image: url('images/36.jpg');
+}
+#productGoldRing37 {
+  background-image: url('images/37.jpg');
+}
+#productGoldRing38 {
+  background-image: url('images/38.jpg');
+}
+#productGoldRing39 {
+  background-image: url('images/39.jpg');
+}
+#productGoldRing40 {
+  background-image: url('images/40.jpg');
+}
+#productGoldRing41 {
+  background-image: url('images/41.jpg');
+}
+#productGoldRing42 {
+  background-image: url('images/42.jpg');
+}
+#productGoldRing43 {
+  background-image: url('images/43.jpg');
+}
+#productGoldRing44 {
+  background-image: url('images/44.jpg');
+}
+#productGoldRing45 {
+  background-image: url('images/45.jpg');
+}
+#productGoldRing46 {
+  background-image: url('images/46.gif');
+}
+#productGoldRing47 {
+  background-image: url('images/47.jpg');
+}
+#productGoldRing48 {
+  background-image: url('images/48.jpg');
+}
+#productGoldRing49 {
+  background-image: url('images/49.jpg');
+}
+#productGoldRing50 {
+  background-image: url('images/50.jpg');
+}
+#productGoldRing51 {
+  background-image: url('images/51.jpg');
+}
+/*#productGoldRing52 {
+  background-image: url('images/52.jpg');
+}*/
+#productGoldRing53 {
+  background-image: url('images/53.JPG');
+}
+#productGoldRing54 {
+  background-image: url('images/54.JPG');
+}
+#productGoldRing55 {
+  background-image: url('images/55.JPG');
+}
+#productGoldRing56 {
+  background-image: url('images/56.JPG');
+}
+/*#productGoldRing57 {
+  background-image: url('images/57.jpg');
+}*/
+#productGoldRing58 {
+  background-image: url('images/58.jpg');
+}
+#productGoldRing59 {
+  background-image: url('images/59.jpg');
+}
+#productGoldRing60 {
+  background-image: url('images/60.jpg');
+}
+#productGoldRing61 {
+  background-image: url('images/61.jpg');
+}
+#productGoldRing62 {
+  background-image: url('images/62.jpg');
+}
+#productGoldRing63 {
+  background-image: url('images/63.jpg');
+}
+.hidden {
+  display: none;
+}
+.overlayProduct {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: black;
+  opacity: 1;
+  z-index: 999;
+  height: 100%;
+  width: 100%;
+}
+.modal-img {
+  height: 700px;
+  width: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+}

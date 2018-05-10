@@ -1,0 +1,135 @@
+.product_container {
+  margin-bottom: 25px;
+  height: 370px;
+  /*  border: 1px solid #e8e8e8;*/
+}
+.product_container .ant-card-body {
+  padding: 0;
+}
+.product_contact {
+  display: none;
+  background: none;
+  padding: 30px;
+  color: white;
+}
+.product_contact .ant-btn-primary {
+  color: #fff;
+  background-color: #000000c9;
+  border-color: #001529f0;
+}
+.show-desc .product_contact {
+  display: block;
+  background: #0000005e;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.product_contact button {
+  position: absolute;
+  /*  bottom: 15px;
+  right: 15px;*/
+  top: 43%;
+  left: 35%;
+}
+.product_img {
+  height: 400px;
+}
+.product_description div {
+  font-size: 14px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1;
+}
+.product {
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 400px;
+  border: none;
+}
+#productBrc1 {
+  background-image: url('images/1.gif');
+}
+/*#productBrc2 {
+  background-image: url('images/2.jpg');
+}*/
+#productBrc3 {
+  background-image: url('images/3.gif');
+}
+#productBrc4 {
+  background-image: url('images/4.gif');
+}
+#productBrc5 {
+  background-image: url('images/5.gif');
+}
+#productBrc6 {
+  background-image: url('images/6.gif');
+}
+#productBrc7 {
+  background-image: url('images/7.gif');
+}
+#productBrc8 {
+  background-image: url('images/8.gif');
+}
+#productBrc9 {
+  background-image: url('images/9.gif');
+}
+#productBrc10 {
+  background-image: url('images/10.gif');
+}
+#productBrc11 {
+  background-image: url('images/11.gif');
+}
+#productBrc12 {
+  background-image: url('images/12.gif');
+}
+#productBrc13 {
+  background-image: url('images/13.gif');
+}
+#productBrc14 {
+  background-image: url('images/14.gif');
+}
+#productBrc15 {
+  background-image: url('images/15.jpg');
+}
+#productBrc16 {
+  background-image: url('images/16.jpg');
+}
+#productBrc17 {
+  background-image: url('images/17.jpg');
+}
+#productBrc18 {
+  background-image: url('images/18.jpg');
+}
+#productBrc19 {
+  background-image: url('images/19.jpg');
+}
+#productBrc20 {
+  background-image: url('images/20.jpg');
+}
+#productBrc21 {
+  background-image: url('images/21.jpg');
+}
+#productBrc22 {
+  background-image: url('images/22.jpg');
+}
+
+#productBrc23 {
+  background-image: url('images/23.jpg');
+}
+#productBrc24 {
+  background-image: url('images/24.jpg');
+}
+#productBrc25 {
+  background-image: url('images/25.jpg');
+}
+
+#productBrc26 {
+  background-image: url('images/26.jpg');
+}
+#productBrc27 {
+  background-image: url('images/27.jpg');
+}

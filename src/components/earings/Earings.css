@@ -1,0 +1,141 @@
+.product_container {
+  margin-bottom: 25px;
+  height: 400px;
+  /*  border: 1px solid #e8e8e8;*/
+}
+.product_container .ant-card-body {
+  padding: 0;
+}
+.product_contact {
+  display: none;
+  background: none;
+  padding: 30px;
+  color: white;
+}
+.product_contact .ant-btn-primary {
+  color: #fff;
+  background-color: #000000c9;
+  border-color: #001529f0;
+}
+.show-desc .product_contact {
+  display: block;
+  background: #0000005e;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.product_contact button {
+  position: absolute;
+  /*  bottom: 15px;
+  right: 15px;*/
+  top: 43%;
+  left: 35%;
+}
+.product_img {
+  height: 400px;
+}
+.product_description div {
+  font-size: 14px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1;
+}
+.product {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  border: none;
+}
+#product1 {
+  background-image: url('images/1.jpg');
+}
+#product2 {
+  background-image: url('images/2.jpg');
+}
+#product3 {
+  background-image: url('images/3.jpg');
+}
+#product4 {
+  background-image: url('images/4.jpg');
+}
+#product5 {
+  background-image: url('images/5.jpg');
+}
+#product6 {
+  background-image: url('images/6.jpg');
+}
+#product7 {
+  background-image: url('images/7.jpg');
+}
+#product8 {
+  background-image: url('images/8.jpg');
+}
+#product9 {
+  background-image: url('images/9.jpg');
+}
+#product10 {
+  background-image: url('images/10.jpg');
+}
+#product11 {
+  background-image: url('images/11.jpg');
+}
+#product12 {
+  background-image: url('images/12.jpg');
+}
+#product13 {
+  background-image: url('images/13.jpg');
+}
+#product14 {
+  background-image: url('images/14.jpg');
+}
+#product15 {
+  background-image: url('images/15.jpg');
+}
+#product16 {
+  background-image: url('images/16.jpg');
+}
+#product17 {
+  background-image: url('images/17.jpg');
+}
+#product18 {
+  background-image: url('images/18.jpg');
+}
+#product19 {
+  background-image: url('images/19.jpg');
+}
+#product20 {
+  background-image: url('images/20.jpg');
+}
+#product21 {
+  background-image: url('images/21.jpg');
+}
+#product22 {
+  background-image: url('images/22.jpg');
+}
+
+#product23 {
+  background-image: url('images/23.jpg');
+}
+#product24 {
+  background-image: url('images/24.jpg');
+}
+#product25 {
+  background-image: url('images/25.jpg');
+}
+
+#product26 {
+  background-image: url('images/26.jpg');
+}
+#product27 {
+  background-image: url('images/27.jpg');
+}
+#product28 {
+  background-image: url('images/28.jpg');
+}
+#product29 {
+  background-image: url('images/29.jpg');
+}

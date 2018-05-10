@@ -1,0 +1,43 @@
+.search-container {
+  padding: 10px 1% 1% 1%;
+  color: #fff;
+  background: url(https://assets0.roofandfloor.com/stat/home_banner-f4dad8d992af3a3d45f7422daaf0f737.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+  .search-container .menu-icon {
+    font-size: 30pt;
+    float: right; }
+
+.consult-btn {
+  background-color: #1aab92;
+  color: #fff;
+  border-color: #1aab92; }
+
+.search-btn {
+  border: 0 #0090e0;
+  background: #0090e0;
+  color: #fff; }
+
+.search-block {
+  padding: 10% 10% 5% 10%;
+  text-align: center; }
+
+.search-block h1 {
+  color: #fff; }
+
+.city-filter {
+  background: transparent;
+  color: #fff;
+  border: none; }
+
+.highlight-card {
+  position: relative;
+  background: #fff;
+  width: 800px;
+  margin: auto;
+  margin-top: 108px;
+  box-shadow: 0 0 10px #b3b3b3;
+  font-size: 14px;
+  color: #808080; }

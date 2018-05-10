@@ -1,0 +1,20 @@
+.listing-name {
+  color: #fff;
+  text-shadow: none;
+  position: absolute;
+  bottom: 5em;
+  left: 0;
+  padding: 10px;
+}
+
+.listing-name .listing-header {
+  font-size: 20px;
+}
+
+.contact-builder-btn {
+  background-color: #0092e0;
+  color: #fcfdfd;
+  border-color: #0092e0;
+  width: 100%;
+  padding: 0;
+}

@@ -1,0 +1,1272 @@
+{
+  "catId": 1,
+  "catname": "GOLD RINGS",
+  "catImgUrl": "images/diamonds.png",
+  "products": [
+    {
+      "id": 1,
+      "name": "Emerald Diamond ring",
+      "description": "",
+      "goldweight": "5.808",
+      "imgUrl": "images/1.jpg",
+      "stnInfo": [
+        {
+          "stnName": "emerald",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "2.33",
+          "diamondWeight": "1.24"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": "1a.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Emerald diamond ring",
+      "description": "",
+      "goldweight": "4.628",
+      "imgUrl": "images/2.png",
+      "stnInfo": [
+        {
+          "stnName": "Emerald",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "3.10cts",
+          "otherWeight": "0.85cts"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": "2a.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rubylight diamond ring",
+      "description": "",
+      "goldweight": "2.501",
+      "imgUrl": "images/3.png",
+      "stnInfo": [
+        {
+          "stnName": "Rubylight",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "1.01",
+          "diamondWeight": "0.24"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": "3a.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Emerald diamond ring",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/4.png",
+      "stnInfo": [
+        {
+          "stnName": "Emerald",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "4.68cts",
+          "diamondWeight": "0.42"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": "4a.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Blue sapphire diamond ring",
+      "description": "",
+      "goldweight": "5.264",
+      "imgUrl": "images/5.png",
+      "stnInfo": [
+        {
+          "stnName": "Blue sapphire",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "4.67cts",
+          "diamondWeight": "1.18cts"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": "5a.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Garnet with white topaz ring",
+      "description": "white topaz round 1.25mm 20pcs",
+      "goldweight": "",
+      "imgUrl": "images/2.png",
+      "stnInfo": [
+        {
+          "stnName": "Garnet",
+          "stnShape": "baguette",
+          "stnSize": "8*6mm",
+          "stnWeight": "",
+          "totalWeight": "3.2grams"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Elephant studded s.p stone in sterling silver",
+      "description":
+        "Very nice elephant made with different color gemstones. 4 inch length 2.5 inch height and 1.75 inch width",
+      "goldweight": "",
+      "imgUrl": "images/7.gif",
+      "stnInfo": [
+        {
+          "stnName": "",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "totalWeight": "135grams"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Garnet oval cab & diamond ring",
+      "description":
+        "Very nice white gold ring.Garnet 12x16 oval cab & 1.25mm diamond rd. cut (0.26 ct - 26 pcs).we can make the desgin in your choice of gem stones",
+      "goldweight": "",
+      "imgUrl": "images/8.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Garnet",
+          "stnShape": "oval cab",
+          "stnSize": "12*16mm",
+          "stnWeight": "15.00cts",
+          "otherWeight": "0.26ct diamond 26pcs"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": "8a.gif"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Ring with diamond & emerald oval cut",
+      "description":
+        "Very nice white gold ring.Emerald oval cut 7x5mm & 2mm diamond rd. cut (0.32 ct - 10pcs) used.we can make the desgin in many gem stone",
+      "goldweight": "4.",
+      "imgUrl": "images/9.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Emerald",
+          "stnShape": "oval cut",
+          "stnSize": "7*5mm",
+          "stnWeight": "0.95ct",
+          "otherWeight": "0.32- 10pcs diamond"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Blue sapphire diamond ring",
+      "description":
+        "Very nice white gold ring.Blue sapphire sq. cut 6mm & 1.55mm diamond rd. cut (0.40 ct - 26 pcs) used.we can make the desgin in many gem stones",
+      "goldweight": "",
+      "imgUrl": "images/10.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Blue sapphire",
+          "stnShape": "square cut",
+          "stnSize": "6mm",
+          "stnWeight": "1.80ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "top amethyst ring",
+      "description":
+        "Diamond 2mm 10 stones, High quality amethyst of 20x25mm (13mm high) used.natural 100% clean stone dark Kanaila mines",
+      "goldweight": "",
+      "imgUrl": "images/11.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Amethyst",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "46ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": "11a.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Large aquzmarine ring",
+      "description": "2mm diamond used 8pcs",
+      "goldweight": "",
+      "imgUrl": "images/12.gif",
+      "stnInfo": [
+        {
+          "stnName": "Aquamarine",
+          "stnShape": "oct. faceted",
+          "stnSize": "",
+          "stnWeight": "17.15ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "diamond and smoky ring",
+      "description":
+        "Very nice design with large cushion checker cut 13mm sorrounded with 1.2mm diamonds / 28 pcs",
+      "goldweight": "",
+      "imgUrl": "images/13.gif",
+      "stnInfo": [
+        {
+          "stnName": "Smoky quartz",
+          "stnShape": "cushion checker cut and diamond round cut",
+          "stnSize": "13mm",
+          "stnWeight": "6.5ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Aquamarine & diamond ring",
+      "description":
+        "Very nice design with oval checker cut 18x13,Nice AAA quality Aquamarine used with 6 small diamonds",
+      "goldweight": "",
+      "imgUrl": "images/14.gif",
+      "stnInfo": [
+        {
+          "stnName": "Aquamarine",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "8cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Black onyx & diamond ring",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/15.gif",
+      "stnInfo": [
+        {
+          "stnName": "Black onyx",
+          "stnShape": "pyramid cushion",
+          "stnSize": "18mm",
+          "stnWeight": "13.45ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Ring with topaz and diamonds",
+      "description":
+        "Very well designed ring with made with rich color of topaz. diamonds generally we use H I color and VS To SI 1.",
+      "goldweight": "",
+      "imgUrl": "images/16.gif",
+      "stnInfo": [
+        {
+          "stnName": "Swiss blue topaz",
+          "stnShape": "cushion",
+          "stnSize": "14*7",
+          "stnWeight": "5ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Fancy Surahi",
+      "description":
+        "Very nice made Surahi (very good show peice for your home/office)Used natural semi precious stones to make this. Size ; 6 Inches wide, 10 inches tall, and 4.25 inch wide",
+      "goldweight": "",
+      "imgUrl": "images/17.gif",
+      "stnInfo": [
+        {
+          "stnName": "",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": "518grm"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "BlueSapphire diamond ring",
+      "description":
+        "Nice design made with small diamonds size 1.8mm 10 pcs and in centre oval Blue sapphire",
+      "goldweight": "",
+      "imgUrl": "images/18.gif",
+      "stnInfo": [
+        {
+          "stnName": "Blue sapphire",
+          "stnShape": "oval",
+          "stnSize": "",
+          "stnWeight": "2.8ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Amethyst ring",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/19.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Amethyst",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "1.55cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Ring with peridot round faceted",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/20.gif",
+      "stnInfo": [
+        {
+          "stnName": "Peridot",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "7.70cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Ring with peridot round faceted",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/21.gif",
+      "stnInfo": [
+        {
+          "stnName": "Peridot",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "1.36ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Amethyst garnet rainbow",
+      "description":
+        "ring with 3 gemstones, can be used your choice combination stones",
+      "goldweight": "",
+      "imgUrl": "images/22.gif",
+      "stnInfo": [
+        {
+          "stnName": "",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Ring Amethyst",
+      "description": "3.5mm round cut : 6pcs",
+      "goldweight": "",
+      "imgUrl": "images/23.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Amethyst",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "1ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Ring with smoky quartz & white zircon",
+      "description": "10x14mm & 1.50mm-28pcs",
+      "goldweight": "",
+      "imgUrl": "images/24.gif",
+      "stnInfo": [
+        {
+          "stnName": "smoky quartz cubic zircon",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "7.25cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Ring with ruby oval",
+      "description": "Good quality Indian ruby natural",
+      "goldweight": "",
+      "imgUrl": "images/25.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Ruby",
+          "stnShape": "oval cut",
+          "stnSize": "9*7mm",
+          "stnWeight": "2.7cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Amethyst ring",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/26.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Amethyst",
+          "stnShape": "Trillion cut",
+          "stnSize": "",
+          "stnWeight": "1.7cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Blue chalcedony and tanzanite ring",
+      "description":
+        "9x7 oval cab 1 piece oval cab used.; 14 pieces ovals faceted can be done in your choice of stones",
+      "goldweight": "",
+      "imgUrl": "images/27.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Blue chalcedony and blur topaz",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Ring with garnet",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/28.gif",
+      "stnInfo": [
+        {
+          "stnName": "Garnet",
+          "stnShape": "",
+          "stnSize": "6mm",
+          "stnWeight": "1.00cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Ring with Rutile quartz",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/29.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Rutile quartz",
+          "stnShape": "",
+          "stnSize": "9*7",
+          "stnWeight": "1.55cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Amethyst ring",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/30.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Amethyst",
+          "stnShape": "",
+          "stnSize": "8*6",
+          "stnWeight": "1.55ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Ring with topaz",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/31.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "White topaz",
+          "stnShape": "emerald round cut",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Ring with amethyst cz, diamond",
+      "description":
+        "Amethyst oval 11x9 1 piece, 1.5 mm round, 22 pcs diamond 1mm 2 pcs.",
+      "goldweight": "",
+      "imgUrl": "images/33.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Amethyst",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "3.7ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Emerald and topaz ring",
+      "description":
+        "emerald oval cab 8x6 1 piece..emerald round faceted 2.5mm 18 pcs..White topaz 4 pcs ;1mm , can be done with your choice of quality and the stone",
+      "goldweight": "",
+      "imgUrl": "images/34.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Emerald",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "2.80cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "London blue topaz,",
+      "description":
+        "6mm Heart shape cut 2 pcs, Diamond single cut 1.3mm ; 2 pcs",
+      "goldweight": "",
+      "imgUrl": "images/36.jpeg ",
+      "stnInfo": [
+        {
+          "stnName": "London blue topaz",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Gold ring with garnet and topaz",
+      "description":
+        "marquise 7x3.5 ; 3 pcs 4mm trillion ; 6 pcs 3.5mm rd 2 pcs 1.5mm rd ; 20 pcs topaz",
+      "goldweight": "",
+      "imgUrl": "images/37.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Garnet",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Ring with garnet ",
+      "description":
+        "7x3.5 mm marquise ; 7 pcs,,, 3.5mm round 2 pcs.,,,, diamond h vs 1.3mm ; 16 pcs",
+      "goldweight": "",
+      "imgUrl": "images/38.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Garnet",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Amethyst diamond ring",
+      "description": "1 MM ; 12 PCS diamond.. 7X5MM PEAR; 5 PCS amethyst",
+      "goldweight": "",
+      "imgUrl": "images/39.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Amethyst",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": "0.07ct diamond"
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Ring with peridot and topaz",
+      "description":
+        "2mm ; 15 pcs, 8mm 1 pc can be made with choice of stones.",
+      "goldweight": "",
+      "imgUrl": "images/40.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Peridot",
+          "stnShape": "round cut",
+          "stnSize": "8mm, 2mm",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Ring with garnet",
+      "description":
+        "pear 10x7mm ; 1 piece garnet... round 1.25mm ; 32 pcs. white topaz",
+      "goldweight": "",
+      "imgUrl": "images/41.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Garnet",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "2.60cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Ring with amethyst and topaz",
+      "description": "Trillion ;9mm ; 1 piece,...round 1mm ; 18 pcs.",
+      "goldweight": "",
+      "imgUrl": "images/42.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "amethyst",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "3.40cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Ring with ruby and topaz",
+      "description":
+        "7x5 oval 1 piece, 1.25mm ; 18 pcs ,strling silver with small white topaz and centre stone Ruby",
+      "goldweight": "",
+      "imgUrl": "images/43.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "ruby",
+          "stnShape": "oval",
+          "stnSize": "7*5",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Ring with garnet",
+      "description": "5 pieces",
+      "goldweight": "",
+      "imgUrl": "images/44.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Garnet",
+          "stnShape": "square cut",
+          "stnSize": "4mm",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Ring with garnet",
+      "description": "Garnet pear 5x4 ; 8 pcs, garnet round 4mm ; 1 pc",
+      "goldweight": "",
+      "imgUrl": "images/45.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "garnet",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Ring with Emerald and topaz",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/46.gif",
+      "stnInfo": [
+        {
+          "stnName": "Emerald",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Ring with amethyst and topaz",
+      "description": "11mm round amethyst,,, 4x5 ovals white topaz 9 pcs",
+      "goldweight": "",
+      "imgUrl": "images/47.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Amethyst",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "7.5cts",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Ring with Emerald oval",
+      "description":
+        "5 ovals used to make the ring. Can use better quality and different stones.",
+      "goldweight": "",
+      "imgUrl": "images/48.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Emerald",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Ring with iolite and Swiss blue topaz",
+      "description":
+        "Concave cut swiss blue topaz 12x10 Iolite round 2mm ; 4 pcs Diamond single cut; 1mm ; 12 stones",
+      "goldweight": "",
+      "imgUrl": "images/49.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Blue topaz",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Ring with white topaz",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/50.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "white topaz",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "1.3ct",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ring with garnet and rainbow moonstone",
+      "description":
+        "8mm round garnet ; 1 piece,,, 3mm heart shape rainbow moonstone ; 10 pcs,,, rhodolite garnet 2mm round10 pcs.",
+      "goldweight": "",
+      "imgUrl": "images/51.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Garnet and moonstone",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Opal cab ring",
+      "description": "Opal oval cab 7x5 3pcs",
+      "goldweight": "",
+      "imgUrl": "images/53.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "opal",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Opal cab ring",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/54.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "opal",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Ring with blue topaz",
+      "description":
+        "Blue topaz Triangle 7.75x7.75 1pc White topaz Round 1.25mm 10pcs",
+      "goldweight": "",
+      "imgUrl": "images/55.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "blue topaz",
+          "stnShape": "triangle",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Ring with peridot and topaz",
+      "description":
+        "Peridot round cut 7mm 1pc White topaz round cut 1.25mm 10 pcs",
+      "goldweight": "",
+      "imgUrl": "images/56.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Peridot",
+          "stnShape": "round cut",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Ring with Tanzanite",
+      "description": "oval 4.75x3.75 ; 6 pcs",
+      "goldweight": "",
+      "imgUrl": "images/58.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "Tanzanite",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Ring with peridot",
+      "description": "peridot pear 9x6 1 pc white topaz 1.25mm ; 22 pcs",
+      "goldweight": "",
+      "imgUrl": "images/59.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "peridot",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Ring with blue topaz",
+      "description": "",
+      "goldweight": "",
+      "imgUrl": "images/60.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "blue topaz",
+          "stnShape": "baguette",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Ring with opal and chrome diopside",
+      "description": "6x8 cab 1 pc 2.5mm rd 12 pcs",
+      "goldweight": "",
+      "imgUrl": "images/61.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "opal and chrome diopside",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Amethyst ring",
+      "description": "Amethyst 5pcs 7x5mm oval ring",
+      "goldweight": "",
+      "imgUrl": "images/62.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "amethyst",
+          "stnShape": "oval",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Ring with lebadrorite cut",
+      "description":
+        "copper colour labadrorite. This ring or any other ring can be made as per your Birth Stone.price will vary as per stone",
+      "goldweight": "",
+      "imgUrl": "images/63.jpeg",
+      "stnInfo": [
+        {
+          "stnName": "copper color labadrorite",
+          "stnShape": "",
+          "stnSize": "",
+          "stnWeight": "",
+          "otherWeight": ""
+        }
+      ],
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

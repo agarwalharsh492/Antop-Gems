@@ -1,0 +1,8 @@
+.builder-name {
+  background: #fff;
+  text-shadow: none;
+  position: absolute;
+  bottom: 2em;
+  left: 5em;
+  padding: 0 10px;
+}

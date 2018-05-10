@@ -1,0 +1,8 @@
+.resimage-overlay {
+  background: linear-gradient(
+    180deg,
+    hsla(0, 0%, 100%, 0) 0,
+    rgba(0, 0, 0, 0.4) 80%,
+    rgba(0, 0, 0, 0.9)
+  );
+}

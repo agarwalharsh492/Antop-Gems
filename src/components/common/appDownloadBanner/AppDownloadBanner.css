@@ -1,0 +1,20 @@
+.send-link-btn {
+  background-color: #00ac92;
+  color: #fff;
+  border-color: #00ac92;
+}
+.app-link-header {
+  font-size: 24px;
+  font-weight: 600;
+}
+.download-banner {
+  background: url(https://assets0.roofandfloor.com/stat/appbanner_bg-182fd4e7d51858eef1a6d8daaf52b450.jpg);
+  margin: 30px 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 300px;
+  color: #fff;
+  padding: 2em;
+  overflow: hidden;
+}

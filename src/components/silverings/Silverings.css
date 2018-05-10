@@ -1,0 +1,202 @@
+.product_container {
+  margin-bottom: 25px;
+  height: 400px;
+  /*  border: 1px solid #e8e8e8;*/
+}
+.product_container .ant-card-body {
+  padding: 0;
+}
+.product_contact {
+  display: none;
+  background: none;
+  padding: 30px;
+  color: white;
+}
+.product_contact .ant-btn-primary {
+  color: #fff;
+  background-color: #000000c9;
+  border-color: #001529f0;
+}
+.show-desc .product_contact {
+  display: block;
+  background: #0000005e;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.product_contact button {
+  position: absolute;
+  /*  bottom: 15px;
+  right: 15px;*/
+  top: 43%;
+  left: 35%;
+}
+.product_img {
+  height: 400px;
+}
+.product_description div {
+  font-size: 14px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1;
+}
+.product {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  border: none;
+}
+#productSilvering1 {
+  background-image: url('images/1.jpg');
+}
+#productSilvering2 {
+  background-image: url('images/2.jpg');
+}
+#productSilvering3 {
+  background-image: url('images/3.jpg');
+}
+#productSilvering4 {
+  background-image: url('images/4.jpg');
+}
+#productSilvering5 {
+  background-image: url('images/5.jpg');
+}
+#productSilvering6 {
+  background-image: url('images/6.jpg');
+}
+#productSilvering7 {
+  background-image: url('images/7.jpg');
+}
+#productSilvering8 {
+  background-image: url('images/8.jpg');
+}
+#productSilvering9 {
+  background-image: url('images/9.jpg');
+}
+#productSilvering10 {
+  background-image: url('images/10.JPG');
+}
+#productSilvering11 {
+  background-image: url('images/11.jpg');
+}
+#productSilvering12 {
+  background-image: url('images/12.jpg');
+}
+#productSilvering13 {
+  background-image: url('images/13.jpg');
+}
+#productSilvering14 {
+  background-image: url('images/14.gif');
+}
+#productSilvering15 {
+  background-image: url('images/15.gif');
+}
+#productSilvering16 {
+  background-image: url('images/16.gif');
+}
+#productSilvering17 {
+  background-image: url('images/17.jpg');
+}
+#productSilvering18 {
+  background-image: url('images/18.jpg');
+}
+#productSilvering19 {
+  background-image: url('images/19.jpg');
+}
+#productSilvering20 {
+  background-image: url('images/20.jpg');
+}
+#productSilvering21 {
+  background-image: url('images/21.jpg');
+}
+#productSilvering22 {
+  background-image: url('images/22.jpg');
+}
+
+#productSilvering23 {
+  background-image: url('images/23.jpg');
+}
+#productSilvering24 {
+  background-image: url('images/24.jpg');
+}
+#productSilvering25 {
+  background-image: url('images/25.gif');
+}
+
+#productSilvering26 {
+  background-image: url('images/26.gif');
+}
+#productSilvering27 {
+  background-image: url('images/27.jpg');
+}
+#productSilvering28 {
+  background-image: url('images/28.gif');
+}
+#productSilvering29 {
+  background-image: url('images/29.jpg');
+}
+#productSilvering30 {
+  background-image: url('images/30.jpg');
+}
+#productSilvering31 {
+  background-image: url('images/31.jpg');
+}
+
+/*#productSilvering32 {
+  background-image: url('images/32.jpg');
+}*/
+#productSilvering33 {
+  background-image: url('images/33.jpg');
+}
+#productSilvering34 {
+  background-image: url('images/34.gif');
+}
+#productSilvering35 {
+  background-image: url('images/35.gif');
+}
+#productSilvering36 {
+  background-image: url('images/36.gif');
+}
+#productSilvering37 {
+  background-image: url('images/37.gif');
+}
+#productSilvering38 {
+  background-image: url('images/38.jpg');
+}
+#productSilvering39 {
+  background-image: url('images/39.jpg');
+}
+#productSilvering40 {
+  background-image: url('images/40.jpg');
+}
+#productSilvering41 {
+  background-image: url('images/41.gif');
+}
+#productSilvering42 {
+  background-image: url('images/42.gif');
+}
+#productSilvering43 {
+  background-image: url('images/43.gif');
+}
+#productSilvering44 {
+  background-image: url('images/44.gif');
+}
+#productSilvering45 {
+  background-image: url('images/45.jpg');
+}
+#productSilvering46 {
+  background-image: url('images/46.jpg');
+}
+#productSilvering47 {
+  background-image: url('images/47.jpg');
+}
+#productSilvering48 {
+  background-image: url('images/48.jpg');
+}
+#productSilvering49 {
+  background-image: url('images/49.jpg');
+}

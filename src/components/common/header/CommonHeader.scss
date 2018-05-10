@@ -1,0 +1,36 @@
+.clearfix::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.ap {
+  position: relative;
+  background: #fff;
+  width: 100%;
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 99;
+  margin-bottom: 0;
+  height: 90px;
+  padding: 10px 30px;
+}
+.ap__navbar__logo {
+  position: relative;
+  display: inline-block;
+}
+.ap__navbar__nav {
+  float: right;
+}
+.ap__navbar__nav ul {
+  list-style: none;
+}
+.ap__navbar__nav ul li {
+  padding: 10px 20px;
+  display: inline-block;
+  letter-spacing: 2px;
+}
+.ap__navbar__nav ul li a {
+  color: #999;
+  text-decoration: none;
+}
