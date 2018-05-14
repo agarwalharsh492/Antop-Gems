@@ -7,6 +7,7 @@ import { Layout, Button, Row, Col, Card } from 'antd';
 import './Emeralds.css';
 
 const { Content } = Layout;
+const imgPath = 'https://s3.ap-south-1.amazonaws.com/antopgems.com/emeralds/';
 
 class Emeralds extends React.Component {
   mouseEnter = key => {
@@ -33,11 +34,12 @@ class Emeralds extends React.Component {
                   onMouseEnter={() => this.mouseEnter(key)}
                   onMouseLeave={() => this.mouseLeave(key)}
                 >
+                  <img src={`${imgPath}${key}.JPG`} className="product_img" />
                   <div
                     onMouseEnter={() => this.mouseEnter(key)}
                     onMouseLeave={() => this.mouseLeave(key)}
                     id={key}
-                    className="product_img"
+                    className="product_hover"
                   >
                     <div className="product_contact">
                       <Button type="primary">Contact Us</Button>

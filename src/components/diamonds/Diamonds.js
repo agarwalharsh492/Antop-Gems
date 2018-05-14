@@ -9,6 +9,7 @@ import './Diamonds.css';
 const { Content } = Layout;
 const data = require('./data.json');
 const zoom = require('../../images/zoom.svg');
+const imgPath = 'https://s3.ap-south-1.amazonaws.com/antopgems.com/diamonds/';
 
 class Diamonds extends React.Component {
   state = {
@@ -60,21 +61,22 @@ class Diamonds extends React.Component {
                 <Card
                   onClick={() => this.openFullProduct(key)}
                   hoverable
-                  id={`productDia${key.id}`}
+                  id={`productGoldRing${key.id}`}
                   className="product"
                   onMouseEnter={() => this.mouseEnter(val)}
                   onMouseLeave={() => this.mouseLeave(val)}
                 >
+                <img src={`${imgPath}${key.imgUrl}`} className="product_img" />
                   <div
                     onMouseEnter={() => this.mouseEnter(val)}
                     onMouseLeave={() => this.mouseLeave(val)}
                     id={val}
-                    className="product_img"
+                    className="product_hover"
                   >
                     <div className="product_contact">
                       <Button type="primary">Contact Us</Button>
                       <span onClick={() => this.openFullProduct(key)}>
-                        <img src={zoom} className="zoomer" />Click to zoom
+                        <img src={zoom} className="zoomer" />Click me
                       </span>
                     </div>
                   </div>

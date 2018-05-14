@@ -9,6 +9,7 @@ import './Goldrings.css';
 const { Content } = Layout;
 const data = require('./data.json');
 const zoom = require('../../images/zoom.svg');
+const imgPath = 'https://s3.ap-south-1.amazonaws.com/antopgems.com/goldrings/';
 
 class Goldrings extends React.Component {
   state = {
@@ -65,11 +66,14 @@ class Goldrings extends React.Component {
                   onMouseEnter={() => this.mouseEnter(val)}
                   onMouseLeave={() => this.mouseLeave(val)}
                 >
+                <div className="product_content">
+                <img src={`${imgPath}${key.imgUrl}`} className="product_img" />
+                </div>
                   <div
                     onMouseEnter={() => this.mouseEnter(val)}
                     onMouseLeave={() => this.mouseLeave(val)}
                     id={val}
-                    className="product_img"
+                    className="product_hover"
                   >
                     <div className="product_contact">
                       <Button type="primary">Contact Us</Button>

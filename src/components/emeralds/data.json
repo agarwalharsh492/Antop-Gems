@@ -1,14 +1,14 @@
 {
   "catId": 1,
   "catname": "Diamond Beads",
-  "catImgUrl": "images/diamonds.png",
+  "catImgUrl": "diamonds.png",
   "products": [
     {
       "id": 1,
       "name": "Diamond Briolettes",
       "description": "Diamond Briolettes with SI purity",
       "weight": "",
-      "imgUrl": "images/1.JPG",
+      "imgUrl": "1.JPG",
       "secondaryImg": [
         {
           "url": "1a.png"
@@ -20,7 +20,7 @@
       "name": "Diamond Briolettes",
       "description": "Top light yellow diamond briolettes",
       "weight": "",
-      "imgUrl": "images/2.jpg",
+      "imgUrl": "2.JPG",
       "secondaryImg": [
         {
           "url": "2a.png"
@@ -35,13 +35,13 @@
       "name": "Multi color Diamond Briolettes",
       "description": " Beautiful Multi color Diamond Briolettes",
       "weight": "29.85cts",
-      "imgUrl": "images/3.jpg",
+      "imgUrl": "3.JPG",
       "secondaryImg": [
         {
           "url": "3a.png"
         },
         {
-          "url": "3b.jpg"
+          "url": "3b.JPG"
         }
       ]
     },
@@ -50,7 +50,7 @@
       "name": "Brown Diamond Briolettes",
       "description": "Beautiful brown diamond briolettes",
       "weight": "",
-      "imgUrl": "images/4.JPG",
+      "imgUrl": "4.JPG",
       "secondaryImg": [
         {
           "url": "4a.png"
@@ -65,7 +65,7 @@
       "name": "Diamond balls cut mirror polish",
       "description": "Diamond balls cut mirror polish",
       "weight": "",
-      "imgUrl": "images/5.JPG",
+      "imgUrl": "5.JPG",
       "secondaryImg": [
         {
           "url": "5a.png"
@@ -77,10 +77,10 @@
       "name": "Diamond Green cubes treated",
       "description": "Treated diamond green cubes",
       "weight": "",
-      "imgUrl": "images/6.jpg",
+      "imgUrl": "6.JPG",
       "secondaryImg": [
         {
-          "url": "6a.jpg"
+          "url": "6a.JPG"
         },
         {
           "url": "6b.png"
@@ -92,7 +92,7 @@
       "name": "Diamond faceted pipe shape",
       "description": "Diamond faceted pipe shape off white and light yellow",
       "weight": "",
-      "imgUrl": "images/7.jpg",
+      "imgUrl": "7.JPG",
       "secondaryImg": [
         {
           "url": "7a.png"
@@ -107,7 +107,7 @@
       "name": "Diamond natural colour rough",
       "description": "",
       "weight": "",
-      "imgUrl": "images/8.jpg",
+      "imgUrl": "8.JPG",
       "secondaryImg": [
         {
           "url": "8a.png"
@@ -119,13 +119,13 @@
       "name": "Diamond black oval beads",
       "description": " Beautiful Diamond black oval beads",
       "weight": "",
-      "imgUrl": "images/9.jpg",
+      "imgUrl": "9.JPG",
       "secondaryImg": [
         {
           "url": "9a.png"
         },
         {
-          "url": "9b.jpg"
+          "url": "9b.JPG"
         }
       ]
     },
@@ -134,7 +134,7 @@
       "name": "Diamond briolettes multi colour",
       "description": "Beautiful multi colour diamond briolettes",
       "weight": "",
-      "imgUrl": "images/10.jpg",
+      "imgUrl": "10.JPG",
       "secondaryImg": [
         {
           "url": "10a.png"
@@ -149,7 +149,7 @@
       "name": "Diamond Rough cubes",
       "description": "Diamond rough cubes multi colour drilled",
       "weight": "",
-      "imgUrl": "images/11.jpg",
+      "imgUrl": "11.JPG",
       "secondaryImg": [
         {
           "url": "11a.png"
@@ -164,7 +164,7 @@
       "name": "Diamond Light brown beads",
       "description": "This is a Dimaond light brown beads.",
       "weight": "",
-      "imgUrl": "images/12.jpg",
+      "imgUrl": "12.JPG",
       "secondaryImg": [
         {
           "url": "12a.png"
@@ -179,7 +179,7 @@
       "name": "Diamond white milky beads",
       "description": "Diamond white milky beads",
       "weight": "",
-      "imgUrl": "images/13.jpg",
+      "imgUrl": "13.JPG",
       "secondaryImg": [
         {
           "url": "13a.png"
@@ -194,13 +194,13 @@
       "name": "Diamond flat beads",
       "description": "Diamond flat beads off white to yellow to brown",
       "weight": "",
-      "imgUrl": "images/14.jpg",
+      "imgUrl": "14.JPG",
       "secondaryImg": [
         {
-          "url": "14a.jpg"
+          "url": "14a.JPG"
         },
         {
-          "url": "14b.jpg"
+          "url": "14b.JPG"
         }
       ]
     },
@@ -209,13 +209,13 @@
       "name": "Diamond Black faceted cubes",
       "description": "Black diamond faceted cubes",
       "weight": "",
-      "imgUrl": "images/15.jpg",
+      "imgUrl": "15.JPG",
       "secondaryImg": [
         {
           "url": "15a.png"
         },
         {
-          "url": "15b.jpg"
+          "url": "15b.JPG"
         }
       ]
     },
@@ -224,7 +224,7 @@
       "name": "Diamond briolettes light brown",
       "description": "Beautiful light brown diamond briolettes",
       "weight": "",
-      "imgUrl": "images/16.jpg",
+      "imgUrl": "16.JPG",
       "secondaryImg": [
         {
           "url": "16a.png"
@@ -239,13 +239,13 @@
       "name": "multi color diamond briolettes",
       "description": "",
       "weight": "",
-      "imgUrl": "images/17.png",
+      "imgUrl": "17.png",
       "secondaryImg": [
         {
           "url": "17a.png"
         },
         {
-          "url": "17b.jpg"
+          "url": "17b.JPG"
         }
       ]
     },
@@ -254,7 +254,7 @@
       "name": "Diamond briolettes steel grey",
       "description": "This is a Dimaond steel grey briolettes",
       "weight": "",
-      "imgUrl": "images/18.jpg",
+      "imgUrl": "18.JPG",
       "secondaryImg": [
         {
           "url": "18a.png"
@@ -269,10 +269,10 @@
       "name": "Black Diamond  rounds brilliant cut heated",
       "description": "Heated diamond rounds brilliant cut",
       "weight": "",
-      "imgUrl": "images/19.png",
+      "imgUrl": "19.png",
       "secondaryImg": [
         {
-          "url": "19a.jpg"
+          "url": "19a.JPG"
         }
       ]
     },
@@ -281,7 +281,7 @@
       "name": "Diamond natural colour high dome multi rose cut TAMBULI",
       "description": "Diamond natural colour high dome multi rose cut TAMBULI",
       "weight": "",
-      "imgUrl": "images/20.JPG",
+      "imgUrl": "20.JPG",
       "secondaryImg": [
         {
           "url": "20a.png"

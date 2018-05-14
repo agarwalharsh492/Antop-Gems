@@ -34,9 +34,13 @@ import Bracelets from '../bracelets/Bracelets';
 import Silverings from '../silverings/Silverings';
 import Earings from '../earings/Earings';
 
+
+
 const { Content } = Layout;
 const SubMenu = Menu.SubMenu;
 const MenuItemGroup = Menu.ItemGroup;
+
+const imgPath = 'https://s3.ap-south-1.amazonaws.com/antopgems.com/home/+';
 
 class Home extends React.Component {
   state = {
@@ -72,12 +76,15 @@ class Home extends React.Component {
   };
   render() {
     // let { bannerData } = this.props;
+    let Products = Array.apply(null, Array(10));
+    Products.map((key, val) => {
+      Products[val] = val + 1;
+    });
     return (
       <main>
         <Affix offsetTop={0}>
           <Row>
             <header className="ap__navbar">
-              <Col span={8} />
               <Col span={8} offset={0}>
                 <div className="ap__navbar__logo">
                   <a href="/">
@@ -173,7 +180,53 @@ class Home extends React.Component {
             </Row>
 
             <Divider />
+            <Row>
+               {Products.map((key, val) => (
+                  <Col className="product_container product_container--home gutter-row" md={6} xs={24}>
+                    <Card
+                      hoverable
+                      id={`productEmerald${key}`}
+                      className="product"
+                      onMouseEnter={() => this.mouseEnter(key)}
+                      onMouseLeave={() => this.mouseLeave(key)}
+                    >
+                      <img src={`${imgPath}${key}.png`} className="product_img" />
+                      <div
+                        onMouseEnter={() => this.mouseEnter(key)}
+                        onMouseLeave={() => this.mouseLeave(key)}
+                        id={key}
+                        className="product_hover"
+                      >
+                        <div className="product_contact">
+                          <Button type="primary">Contact Us</Button>
+                        </div>
+                      </div>
+                    </Card>
+                  </Col>
+                ))}
+            </Row>
+            <Row>
+              <div className="section__header">
+                About Us
+              </div>
+              <div>
+                ANTOP GEMS is a family-owned business. It all started when MR.ram kishan Agarwal (my father) who has been working with precious gems specially Zambian emeralds for over 35 years. Started his company BINDAL GEMS and he established a successful business and was later joined by me (ANKIT AGARWAL) who from a very young age worked with his father and now opened his new firm ANTOP GEMS. 
 
+ ANTOP GEMS  has been offering a full range of diamond beads, loose emeralds, rubies, semi precious stones and sapphires as well as gold and silver designer settings and custom designed pieces in the best price.
+
+Please feel free to ask us for any requirement in precious or semi precious stones and jewellery, Our factory is conveniently located in Jaipur (India). Customers trust is all we need. 
+
+Please have a look into our website: antopgems.com
+
+Our mission is to provide the finest quality bespoke jewelry and single and matched-pair loose stones at wholesale prices
+
+Located in the heart of JAIPUR, ANTOP GEMS is the online extension of our 25+ year old wholesale gemstones business
+
+All of our gems are 100% natural - we do not carry lab-created or synthetic gemstones - and most stones are certified by distinguished, independent gemstone laboratories.
+
+We specialize in rings, pendants, earrings, and bracelets featuring sapphires, rubies, emeralds, alexandrites, tsavorites, and fine diamonds.
+              </div>
+            </Row>
             <Row>
               <Carousel effect="fade" autoplay>
                 <Row gutter={10}>
