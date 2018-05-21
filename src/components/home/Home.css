@@ -25,10 +25,11 @@
   border: none; }
 
 .ap__bg {
-  background: url("../../images/main_bg2.jpg");
+  background: url("../../images/main_bg.jpg");
   width: 100%;
-  height: 400px;
-  background-size: cover; }
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat; }
 
 .section__header {
   font-size: 24px;
@@ -112,13 +113,35 @@
   background-image: url("../../images/rings/ring5.png");
   background-position: center; }
 
+.category {
+  padding: 1px; }
+
 .category-card {
   background-size: cover;
   height: 400px;
   background-repeat: no-repeat;
-  background-position: center; }
+  background-position: center;
+  transition: transform .5s;
+  position: relative;
+  flex: 1 1 100%;
+  padding: 20px; }
+  .category-card::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: opacity 2s cubic-bezier(0.165, 0.84, 0.44, 1);
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.15);
+    content: '';
+    opacity: 0;
+    z-index: -1; }
+  .category-card:hover, .category-card:focus {
+    transform: scale3d(1.006, 1.006, 1); }
+    .category-card:hover::after, .category-card:focus::after {
+      opacity: 1; }
   .category-card.productDiamondBeads {
-    background-image: url("images/diamond_bead.png"); }
+    background-image: url("images/diamond_bead.jpg"); }
   .category-card.productEarrings {
     background-image: url("images/earring.jpg"); }
   .category-card.productRings {
@@ -132,7 +155,7 @@
   background-size: contain;
   height: 400px;
   background-repeat: no-repeat;
-  background-image: url("../../images/emerald.png");
+  background-image: url("../../images/emerald.jpg");
   background-position: center; }
 
 .product_container {

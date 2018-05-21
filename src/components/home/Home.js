@@ -142,35 +142,35 @@ class Home extends React.Component {
             <Divider />
 
             <Row>
-              <Col md={8} xs={24}>
+              <Col md={8} xs={24} className="category">
                 <Card
                   hoverable
                   className="productDiamondBeads category-card"
                   onClick={() => this.updateCurrentCateogry('Diamond Beads')}
                 />
               </Col>
-              <Col md={8} xs={24}>
+              <Col md={8} xs={24} className="category">
                 <Card
                   hoverable
                   className="productRings category-card"
                   onClick={() => this.updateCurrentCateogry('Gold Rings')}
                 />
               </Col>
-              <Col md={8} xs={24}>
+              <Col md={8} xs={24} className="category">
                 <Card
                   hoverable
                   className="productBracelets category-card"
                   onClick={() => this.updateCurrentCateogry('Bracelets')}
                 />
               </Col>
-              <Col md={8} xs={24}>
+              <Col md={16} xs={24} className="category">
                 <Card
                   hoverable
                   className="productEmeralds category-card"
                   onClick={() => this.updateCurrentCateogry('Emeralds')}
                 />
               </Col>
-              <Col md={8} xs={24}>
+              <Col md={8} xs={24} className="category">
                 <Card
                   hoverable
                   className="productEarrings category-card"
