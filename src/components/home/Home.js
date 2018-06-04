@@ -33,8 +33,7 @@ import Goldrings from '../goldrings/Goldrings';
 import Bracelets from '../bracelets/Bracelets';
 import Silverings from '../silverings/Silverings';
 import Earings from '../earings/Earings';
-
-
+import Semiprecious from '../semiprecious/Semiprecious';
 
 const { Content } = Layout;
 const SubMenu = Menu.SubMenu;
@@ -119,6 +118,7 @@ class Home extends React.Component {
                   </MenuItemGroup>
                 </SubMenu>
                 <Menu.Item key="Emeralds">Emeralds</Menu.Item>
+                <Menu.Item key="Semi precious">Semi Precious</Menu.Item>
               </Menu>
             </header>
           </Row>
@@ -126,9 +126,7 @@ class Home extends React.Component {
         <Row>
           <Col md={24} xs={24}>
             <div className="ap__bg" />
-            <span id="category">
-              Browse Our Collections
-            </span>
+            <span id="category">Browse Our Collections</span>
           </Col>
         </Row>
         <div className="container">
@@ -144,6 +142,7 @@ class Home extends React.Component {
             {this.state.current === 'Bracelets' && <Bracelets />}
             {this.state.current === 'Silver Rings' && <Silverings />}
             {this.state.current === 'Gold Rings' && <Goldrings />}
+            {this.state.current === 'Semi precious' && <Semiprecious />}
             <Divider />
 
             <Row>
@@ -153,7 +152,7 @@ class Home extends React.Component {
                   className="productDiamondBeads category-card"
                   onClick={() => this.updateCurrentCateogry('Diamond Beads')}
                 >
-                <span>Diamond Beads</span>
+                  <span>Diamond Beads</span>
                 </Card>
               </Col>
               <Col md={8} xs={24} className="category">
@@ -197,29 +196,35 @@ class Home extends React.Component {
             <Divider />
 
             <Row>
-              <div className="section__header">
-                About Us
-              </div>
+              <div className="section__header">About Us</div>
               <div className="about">
                 <div className="about_daddy about_person" />
                 <div className="about_ankit about_person" />
               </div>
               <div className="about_company">
-                ANTOP GEMS is a family-owned business. It all started when MR.ram kishan Agarwal (my father) who has been working with precious gems specially Zambian emeralds for over 35 years. Started his company BINDAL GEMS and he established a successful business and was later joined by me (ANKIT AGARWAL) who from a very young age worked with his father and now opened his new firm ANTOP GEMS. 
-
- ANTOP GEMS  has been offering a full range of diamond beads, loose emeralds, rubies, semi precious stones and sapphires as well as gold and silver designer settings and custom designed pieces in the best price.
-
-Please feel free to ask us for any requirement in precious or semi precious stones and jewellery, Our factory is conveniently located in Jaipur (India). Customers trust is all we need. 
-
-Please have a look into our website: antopgems.com
-
-Our mission is to provide the finest quality bespoke jewelry and single and matched-pair loose stones at wholesale prices
-
-Located in the heart of JAIPUR, ANTOP GEMS is the online extension of our 25+ year old wholesale gemstones business
-
-All of our gems are 100% natural - we do not carry lab-created or synthetic gemstones - and most stones are certified by distinguished, independent gemstone laboratories.
-
-We specialize in rings, pendants, earrings, and bracelets featuring sapphires, rubies, emeralds, alexandrites, tsavorites, and fine diamonds.
+                ANTOP GEMS is a family-owned business. It all started when
+                MR.ram kishan Agarwal (my father) who has been working with
+                precious gems specially Zambian emeralds for over 35 years.
+                Started his company BINDAL GEMS and he established a successful
+                business and was later joined by me (ANKIT AGARWAL) who from a
+                very young age worked with his father and now opened his new
+                firm ANTOP GEMS. ANTOP GEMS has been offering a full range of
+                diamond beads, loose emeralds, rubies, semi precious stones and
+                sapphires as well as gold and silver designer settings and
+                custom designed pieces in the best price. Please feel free to
+                ask us for any requirement in precious or semi precious stones
+                and jewellery, Our factory is conveniently located in Jaipur
+                (India). Customers trust is all we need. Please have a look into
+                our website: antopgems.com Our mission is to provide the finest
+                quality bespoke jewelry and single and matched-pair loose stones
+                at wholesale prices Located in the heart of JAIPUR, ANTOP GEMS
+                is the online extension of our 25+ year old wholesale gemstones
+                business All of our gems are 100% natural - we do not carry
+                lab-created or synthetic gemstones - and most stones are
+                certified by distinguished, independent gemstone laboratories.
+                We specialize in rings, pendants, earrings, and bracelets
+                featuring sapphires, rubies, emeralds, alexandrites, tsavorites,
+                and fine diamonds.
               </div>
             </Row>
             <Row>
@@ -251,20 +256,23 @@ We specialize in rings, pendants, earrings, and bracelets featuring sapphires, r
           </Row>
         </div>
         <Row className="footer">
-            <div>
-            ** Terms and conditions - 
-
-            International Shipping - 
-            Orders are dispatched in 5 to 10 working days. International deliveries will be made by DHL or DPDS and a tracking code will be provided in the confirmation email once the order has been processed.
-            The following will attract additional charges:
-            Delivery to a remote location.
-
-            Note: International shipments sometimes may attract additional duties and taxes that may be levied on an order once it has reached the destination state or country.
-            In all cases, the customer is liable to clear any such additional charges with the courier company in order to release the goods. Unfortunately, we are unable to state the exact amount of such charges at the time an order is placed since charges vary widely between states and countries.
-
-            For all other queries, please e-mail us at ANTOPGEMS@GMAIL.COM and we will be happy to help.
-            </div>
-          </Row>
+          <div>
+            ** Terms and conditions - International Shipping - Orders are
+            dispatched in 5 to 10 working days. International deliveries will be
+            made by DHL or DPDS and a tracking code will be provided in the
+            confirmation email once the order has been processed. The following
+            will attract additional charges: Delivery to a remote location.
+            Note: International shipments sometimes may attract additional
+            duties and taxes that may be levied on an order once it has reached
+            the destination state or country. In all cases, the customer is
+            liable to clear any such additional charges with the courier company
+            in order to release the goods. Unfortunately, we are unable to state
+            the exact amount of such charges at the time an order is placed
+            since charges vary widely between states and countries. For all
+            other queries, please e-mail us at ANTOPGEMS@GMAIL.COM and we will
+            be happy to help.
+          </div>
+        </Row>
       </main>
     );
   }

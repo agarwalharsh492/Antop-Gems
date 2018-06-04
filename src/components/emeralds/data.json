@@ -1,290 +1,209 @@
 {
   "catId": 1,
-  "catname": "Diamond Beads",
-  "catImgUrl": "diamonds.png",
+  "catname": "",
+  "catImgUrl": "",
   "products": [
     {
       "id": 1,
       "name": "",
-      "description": "Diamond Briolettes with SI purity",
+      "description": "",
       "weight": "",
       "imgUrl": "1.JPG",
       "secondaryImg": [
         {
-          "url": "1a.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 2,
-      "name": "Diamond Briolettes",
-      "description": "Top light yellow diamond briolettes",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "2.JPG",
       "secondaryImg": [
         {
-          "url": "2a.png"
-        },
-        {
-          "url": "2b.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 3,
-      "name": "Multi color Diamond Briolettes",
-      "description": " Beautiful Multi color Diamond Briolettes",
-      "weight": "29.85cts",
+      "name": "",
+      "description": "",
+      "weight": "",
       "imgUrl": "3.JPG",
       "secondaryImg": [
         {
-          "url": "3a.png"
-        },
-        {
-          "url": "3b.JPG"
+          "url": ""
         }
       ]
     },
     {
       "id": 4,
-      "name": "Brown Diamond Briolettes",
-      "description": "Beautiful brown diamond briolettes",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "4.JPG",
       "secondaryImg": [
         {
-          "url": "4a.png"
-        },
-        {
-          "url": "4b.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 5,
-      "name": "Diamond balls cut mirror polish",
-      "description": "Diamond balls cut mirror polish",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "5.JPG",
       "secondaryImg": [
         {
-          "url": "5a.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 6,
-      "name": "Diamond Green cubes treated",
-      "description": "Treated diamond green cubes",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "6.JPG",
       "secondaryImg": [
         {
-          "url": "6a.JPG"
-        },
-        {
-          "url": "6b.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 7,
-      "name": "Diamond faceted pipe shape",
-      "description": "Diamond faceted pipe shape off white and light yellow",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "7.JPG",
       "secondaryImg": [
         {
-          "url": "7a.png"
-        },
-        {
-          "url": "7b.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 8,
-      "name": "Diamond natural colour rough",
+      "name": "",
       "description": "",
       "weight": "",
       "imgUrl": "8.JPG",
       "secondaryImg": [
         {
-          "url": "8a.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 9,
-      "name": "Diamond black oval beads",
-      "description": " Beautiful Diamond black oval beads",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "9.JPG",
       "secondaryImg": [
         {
-          "url": "9a.png"
-        },
-        {
-          "url": "9b.JPG"
+          "url": ""
         }
       ]
     },
     {
       "id": 10,
-      "name": "Diamond briolettes multi colour",
-      "description": "Beautiful multi colour diamond briolettes",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "10.JPG",
       "secondaryImg": [
         {
-          "url": "10a.png"
-        },
-        {
-          "url": "10b.tiff"
+          "url": ""
         }
       ]
     },
     {
       "id": 11,
-      "name": "Diamond Rough cubes",
-      "description": "Diamond rough cubes multi colour drilled",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "11.JPG",
       "secondaryImg": [
         {
-          "url": "11a.png"
-        },
-        {
-          "url": "11b.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 12,
-      "name": "Diamond Light brown beads",
-      "description": "This is a Dimaond light brown beads.",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "12.JPG",
       "secondaryImg": [
         {
-          "url": "12a.png"
-        },
-        {
-          "url": "12b.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 13,
-      "name": "Diamond white milky beads",
-      "description": "Diamond white milky beads",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "13.JPG",
       "secondaryImg": [
         {
-          "url": "13a.png"
-        },
-        {
-          "url": "13b.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 14,
-      "name": "Diamond flat beads",
-      "description": "Diamond flat beads off white to yellow to brown",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "14.JPG",
       "secondaryImg": [
         {
-          "url": "14a.JPG"
-        },
-        {
-          "url": "14b.JPG"
+          "url": ""
         }
       ]
     },
     {
       "id": 15,
-      "name": "Diamond Black faceted cubes",
-      "description": "Black diamond faceted cubes",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "15.JPG",
       "secondaryImg": [
         {
-          "url": "15a.png"
-        },
-        {
-          "url": "15b.JPG"
+          "url": ""
         }
       ]
     },
     {
       "id": 16,
-      "name": "Diamond briolettes light brown",
-      "description": "Beautiful light brown diamond briolettes",
+      "name": "",
+      "description": "",
       "weight": "",
       "imgUrl": "16.JPG",
       "secondaryImg": [
         {
-          "url": "16a.png"
-        },
-        {
-          "url": "16b.png"
+          "url": ""
         }
       ]
     },
     {
       "id": 17,
-      "name": "multi color diamond briolettes",
+      "name": "",
       "description": "",
       "weight": "",
-      "imgUrl": "17.png",
+      "imgUrl": "17.JPG",
       "secondaryImg": [
         {
-          "url": "17a.png"
-        },
-        {
-          "url": "17b.JPG"
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "name": "Diamond briolettes steel grey",
-      "description": "This is a Dimaond steel grey briolettes",
-      "weight": "",
-      "imgUrl": "18.JPG",
-      "secondaryImg": [
-        {
-          "url": "18a.png"
-        },
-        {
-          "url": "18b.png"
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "name": "Black Diamond  rounds brilliant cut heated",
-      "description": "Heated diamond rounds brilliant cut",
-      "weight": "",
-      "imgUrl": "19.png",
-      "secondaryImg": [
-        {
-          "url": "19a.JPG"
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "name": "Diamond natural colour high dome multi rose cut TAMBULI",
-      "description": "Diamond natural colour high dome multi rose cut TAMBULI",
-      "weight": "",
-      "imgUrl": "20.JPG",
-      "secondaryImg": [
-        {
-          "url": "20a.png"
+          "url": ""
         }
       ]
     }
