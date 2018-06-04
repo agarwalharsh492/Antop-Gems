@@ -27,6 +27,21 @@ $grid-gutter: 31px;
   float: right;
   margin-top: 16px;
   border:none;
+  &:hover {
+    border : none;
+    color: black !important;   
+  }
+  .ant-menu-item {
+
+  }
+  .ant-menu-submenu-selected,.ant-menu-submenu-active,.ant-menu-submenu-horizontal,.ant-menu-item-selected,.ant-menu-item-active {
+    border : none;
+    color: black;
+    &:hover {
+      border : none;
+      color: black;   
+    }
+  }
 }
 .ap__bg {
   background: url('../../images/main_bg.jpg');
@@ -136,6 +151,13 @@ $grid-gutter: 31px;
   position: relative;
   flex: 1 1 100%;
   padding: $card-padding;
+  span {
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+  }
   &::after {
     position: absolute;
     top: 0;
@@ -188,4 +210,49 @@ $grid-gutter: 31px;
   height:15px;
   width:15px;
   color:white;
+}
+#category{
+  position: absolute;
+  bottom: 45%;
+  left: 45%;
+  padding: 15px;
+  border: 1px solid white;
+  border-radius: 8px;
+  color: white;
+  &:hover {
+    background: #ffffff78;
+    cursor: pointer;
+  }
+}
+.about {
+  float: left;
+  margin-right: 75px;
+  margin-bottom: 30px;
+  &_person {
+    height: 150px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    background-position-y: -50px;
+    margin-bottom:40px;
+  }
+  &_company {
+    margin-top:75px;
+    line-height:2;
+    font-size:13px;
+  }
+  &_ankit {
+    background-image: url('images/ankit.jpg');
+  }
+  &_daddy {
+    background-image: url('images/daddy.jpg');
+  }
+}
+.footer {
+  background: #000000d6;
+  padding: 25px;
+  color: white;
+  font-size: 12px;
+  line-height: 2;
 }

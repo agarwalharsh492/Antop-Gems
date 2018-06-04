@@ -59,7 +59,6 @@
 .product {
   height: 270px !important;
   border: 1px solid #e8e8e8;
-  padding-bottom: 5px;
   border: 1px solid #e8e8e8 !important;
 }
 
@@ -76,10 +75,37 @@
   height: 100%;
   width: 100%;
 }
+.overlayProduct-info {
+  float: left;
+  width: 45%;
+  padding: 0 5px;
+  min-height: 80%;
+}
 .modal-img {
   height: 700px;
   width: 700px;
-  background-size: cover;
-  background-repeat: no-repeat;
   margin: auto;
+  position:relative;
+}
+.modal-img-tag {
+  vertical-align: middle;
+  border-style: none;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+}
+.overlay_contact {
+  color: #fff;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  width: 200px;
+  float:right;
+  background-color: #000000c9;
+  border-color: #001529f0;
+}
+.overlayProduct_spec {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }

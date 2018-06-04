@@ -45,7 +45,7 @@ const imgPath = 'https://s3.ap-south-1.amazonaws.com/antopgems.com/home/+';
 class Home extends React.Component {
   state = {
     toggleMenuButton: true,
-    current: 'home'
+    current: 'Our Collections'
   };
   componentDidMount() {
     // let { dispatch } = this.props;
@@ -60,6 +60,7 @@ class Home extends React.Component {
   };
   updateCurrentCateogry = cat => {
     this.setState({ current: cat });
+    window.location.href = '#category';
   };
   mouseEnter = key => {
     document.getElementById(key).classList += ' show-desc';
@@ -70,6 +71,7 @@ class Home extends React.Component {
       current: e.key
     });
     console.log(this.state.current);
+    window.location.href = '#category';
   };
   mouseLeave = key => {
     document.getElementById(key).classList.remove('show-desc');
@@ -104,7 +106,7 @@ class Home extends React.Component {
                 offset={0}
                 className="ap__navbar__nav"
               >
-                <Menu.Item key="home">Home</Menu.Item>
+                <Menu.Item key="Our Collections">Home</Menu.Item>
                 <Menu.Item key="Diamond Beads">Diamond Beads</Menu.Item>
                 <SubMenu title={<span>Jewellery</span>}>
                   <MenuItemGroup title="Gold">
@@ -124,6 +126,9 @@ class Home extends React.Component {
         <Row>
           <Col md={24} xs={24}>
             <div className="ap__bg" />
+            <span id="category">
+              Browse Our Collections
+            </span>
           </Col>
         </Row>
         <div className="container">
@@ -147,69 +152,59 @@ class Home extends React.Component {
                   hoverable
                   className="productDiamondBeads category-card"
                   onClick={() => this.updateCurrentCateogry('Diamond Beads')}
-                />
+                >
+                <span>Diamond Beads</span>
+                </Card>
               </Col>
               <Col md={8} xs={24} className="category">
                 <Card
                   hoverable
                   className="productRings category-card"
                   onClick={() => this.updateCurrentCateogry('Gold Rings')}
-                />
+                >
+                  <span>Rings</span>
+                </Card>
               </Col>
               <Col md={8} xs={24} className="category">
                 <Card
                   hoverable
                   className="productBracelets category-card"
                   onClick={() => this.updateCurrentCateogry('Bracelets')}
-                />
+                >
+                  <span>Bracelets</span>
+                </Card>
               </Col>
               <Col md={16} xs={24} className="category">
                 <Card
                   hoverable
                   className="productEmeralds category-card"
                   onClick={() => this.updateCurrentCateogry('Emeralds')}
-                />
+                >
+                  <span>Emeralds</span>
+                </Card>
               </Col>
               <Col md={8} xs={24} className="category">
                 <Card
                   hoverable
                   className="productEarrings category-card"
                   onClick={() => this.updateCurrentCateogry('Earrings')}
-                />
+                >
+                  <span>Earrings</span>
+                </Card>
               </Col>
             </Row>
 
             <Divider />
-            <Row>
-               {Products.map((key, val) => (
-                  <Col className="product_container product_container--home gutter-row" md={6} xs={24}>
-                    <Card
-                      hoverable
-                      id={`productEmerald${key}`}
-                      className="product"
-                      onMouseEnter={() => this.mouseEnter(key)}
-                      onMouseLeave={() => this.mouseLeave(key)}
-                    >
-                      <img src={`${imgPath}${key}.png`} className="product_img" />
-                      <div
-                        onMouseEnter={() => this.mouseEnter(key)}
-                        onMouseLeave={() => this.mouseLeave(key)}
-                        id={key}
-                        className="product_hover"
-                      >
-                        <div className="product_contact">
-                          <Button type="primary">Contact Us</Button>
-                        </div>
-                      </div>
-                    </Card>
-                  </Col>
-                ))}
-            </Row>
+
             <Row>
               <div className="section__header">
                 About Us
               </div>
-              <div>
+              <div className="about">
+                <div className="about_daddy about_person" />
+                <div className="about_ankit about_person" />
+              </div>
+              <div className="about_company">
                 ANTOP GEMS is a family-owned business. It all started when MR.ram kishan Agarwal (my father) who has been working with precious gems specially Zambian emeralds for over 35 years. Started his company BINDAL GEMS and he established a successful business and was later joined by me (ANKIT AGARWAL) who from a very young age worked with his father and now opened his new firm ANTOP GEMS. 
 
  ANTOP GEMS  has been offering a full range of diamond beads, loose emeralds, rubies, semi precious stones and sapphires as well as gold and silver designer settings and custom designed pieces in the best price.
@@ -255,6 +250,21 @@ We specialize in rings, pendants, earrings, and bracelets featuring sapphires, r
             </Row>
           </Row>
         </div>
+        <Row className="footer">
+            <div>
+            ** Terms and conditions - 
+
+            International Shipping - 
+            Orders are dispatched in 5 to 10 working days. International deliveries will be made by DHL or DPDS and a tracking code will be provided in the confirmation email once the order has been processed.
+            The following will attract additional charges:
+            Delivery to a remote location.
+
+            Note: International shipments sometimes may attract additional duties and taxes that may be levied on an order once it has reached the destination state or country.
+            In all cases, the customer is liable to clear any such additional charges with the courier company in order to release the goods. Unfortunately, we are unable to state the exact amount of such charges at the time an order is placed since charges vary widely between states and countries.
+
+            For all other queries, please e-mail us at ANTOPGEMS@GMAIL.COM and we will be happy to help.
+            </div>
+          </Row>
       </main>
     );
   }

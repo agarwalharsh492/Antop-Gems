@@ -1,0 +1,355 @@
+{
+  "catId": 1,
+  "catname": "",
+  "catImgUrl": "",
+  "products": [
+    {
+      "id": 1,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "1.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "2.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "3.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "4.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "5.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "6.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "7.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "8.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "9.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "10.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "11.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "12.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "13.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "14.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "15.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "16.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "17.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "18.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "19.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "20.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "21.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "22.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "23.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "24.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "25.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "26.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "27.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "28.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "",
+      "description": "",
+      "weight": "",
+      "imgUrl": "29.jpg",
+      "secondaryImg": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

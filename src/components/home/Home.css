@@ -23,6 +23,15 @@
   float: right;
   margin-top: 16px;
   border: none; }
+  .ap__navbar__nav:hover {
+    border: none;
+    color: black !important; }
+  .ap__navbar__nav .ant-menu-submenu-selected, .ap__navbar__nav .ant-menu-submenu-active, .ap__navbar__nav .ant-menu-submenu-horizontal, .ap__navbar__nav .ant-menu-item-selected, .ap__navbar__nav .ant-menu-item-active {
+    border: none;
+    color: black; }
+    .ap__navbar__nav .ant-menu-submenu-selected:hover, .ap__navbar__nav .ant-menu-submenu-active:hover, .ap__navbar__nav .ant-menu-submenu-horizontal:hover, .ap__navbar__nav .ant-menu-item-selected:hover, .ap__navbar__nav .ant-menu-item-active:hover {
+      border: none;
+      color: black; }
 
 .ap__bg {
   background: url("../../images/main_bg.jpg");
@@ -125,6 +134,12 @@
   position: relative;
   flex: 1 1 100%;
   padding: 20px; }
+  .category-card span {
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    bottom: 15px;
+    left: 20px; }
   .category-card::after {
     position: absolute;
     top: 0;
@@ -166,3 +181,43 @@
   height: 15px;
   width: 15px;
   color: white; }
+
+#category {
+  position: absolute;
+  bottom: 45%;
+  left: 45%;
+  padding: 15px;
+  border: 1px solid white;
+  border-radius: 8px;
+  color: white; }
+  #category:hover {
+    background: #ffffff78;
+    cursor: pointer; }
+
+.about {
+  float: left;
+  margin-right: 75px;
+  margin-bottom: 30px; }
+  .about_person {
+    height: 150px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    background-position-y: -50px;
+    margin-bottom: 40px; }
+  .about_company {
+    margin-top: 75px;
+    line-height: 2;
+    font-size: 13px; }
+  .about_ankit {
+    background-image: url("images/ankit.jpg"); }
+  .about_daddy {
+    background-image: url("images/daddy.jpg"); }
+
+.footer {
+  background: #000000d6;
+  padding: 25px;
+  color: white;
+  font-size: 12px;
+  line-height: 2; }
