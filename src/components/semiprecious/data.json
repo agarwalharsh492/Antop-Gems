@@ -5,555 +5,218 @@
   "products": [
     {
       "id": 1,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+1.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Peacock labradorite",
+      "imgUrl": "1.jpg"
     },
     {
       "id": 2,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+2.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Bostwana",
+      "imgUrl": "2.jpg"
     },
     {
       "id": 3,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "3.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Amethyst stone",
+      "imgUrl": "3.jpg"
     },
     {
       "id": 4,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+4.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Bloodstone",
+      "imgUrl": "4.jpg"
     },
     {
       "id": 5,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+5.jpeg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Agate slice",
+      "imgUrl": "5.jpg"
     },
     {
       "id": 6,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+6.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Amethyst",
+      "imgUrl": "6.jpg"
     },
     {
       "id": 7,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+7.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Bostwana",
+      "imgUrl": "7.jpg"
     },
     {
       "id": 8,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+8.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Citrin rough",
+      "imgUrl": "8.JPG"
     },
     {
       "id": 9,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+9.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "citrin stone",
+      "imgUrl": "9.jpeg"
     },
     {
       "id": 10,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+10.JPG",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Citrin stone",
+      "imgUrl": "10.jpeg"
     },
     {
       "id": 11,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+11.JPG",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Chalcidony",
+      "imgUrl": "11.JPG"
     },
     {
       "id": 12,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+12.jpeg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Faceting garnet rough",
+      "imgUrl": "12.jpg"
     },
     {
       "id": 13,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+13.jpeg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Fullsizerender Chalce",
+      "imgUrl": "13.jpg"
     },
     {
       "id": 14,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+14.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Howlite stone",
+      "imgUrl": "14.jpg"
     },
     {
       "id": 15,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+15.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Pitersite cab",
+      "imgUrl": "15.jpg"
     },
     {
       "id": 16,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+16.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Purple labradorite",
+      "imgUrl": "16.jpg"
     },
     {
       "id": 17,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+17.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Red garnet",
+      "imgUrl": "17.jpg"
     },
     {
       "id": 18,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+18.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Red garnet bracelet",
+      "imgUrl": "18.jpg"
     },
     {
       "id": 19,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+19.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Tanzanite stone",
+      "imgUrl": "19.jpg"
     },
     {
       "id": 20,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+20.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Tanzanite",
+      "imgUrl": "20.jpg"
     },
     {
       "id": 21,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+21.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Swiss blue topaz",
+      "imgUrl": "21.jpg"
     },
     {
       "id": 22,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+22.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Smoky quartz",
+      "imgUrl": "22.jpg"
     },
     {
       "id": 23,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+23.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Sky blue topaz",
+      "imgUrl": "23.jpg"
     },
     {
       "id": 24,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+24.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Rose quartz",
+      "imgUrl": "24.JPG"
     },
     {
       "id": 25,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+25.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Rose quartz",
+      "imgUrl": "25.jpg"
     },
     {
       "id": 26,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+26.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Red onyx",
+      "imgUrl": "26.jpg"
     },
     {
       "id": 27,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+27.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Ocean jasper",
+      "imgUrl": "27.jpg"
     },
     {
       "id": 28,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+28.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "White rainbow moonstone",
+      "imgUrl": "28.jpg"
     },
     {
       "id": 29,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+29.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Turquoise beads",
+      "imgUrl": "29.jpg"
     },
     {
       "id": 30,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+30.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Moss agate",
+      "imgUrl": "30.jpg"
     },
     {
       "id": 31,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+31.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Moss agate",
+      "imgUrl": "31.jpg"
     },
     {
       "id": 32,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+32.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Mookaite",
+      "imgUrl": "2.jpg"
     },
     {
       "id": 33,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+33.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "London blue topaz",
+      "imgUrl": "33.jpg"
     },
     {
       "id": 34,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+34.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Lemon quartz",
+      "imgUrl": "34.jpg"
     },
     {
       "id": 35,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+35.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Lapiz lazuli",
+      "imgUrl": "2.jpg"
     },
     {
       "id": 36,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+36.JPG",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Green amethyst",
+      "imgUrl": "36.jpg"
     },
     {
       "id": 37,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+37.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Black spinal",
+      "imgUrl": "37.jpeg"
     },
     {
       "id": 38,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+38.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Crysophase rough",
+      "imgUrl": "38.jpg"
     },
     {
       "id": 39,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+39.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Ethopian opal rough",
+      "imgUrl": "39.jpg"
     },
     {
       "id": 40,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+40.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Rose quartz",
+      "imgUrl": "40.jpg"
     },
     {
       "id": 41,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+41.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Smokey",
+      "imgUrl": "41.jpg"
     },
     {
       "id": 42,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+42.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Smokey quartz faceted beads",
+      "imgUrl": "42.jpg"
     },
     {
       "id": 43,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+43.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": 44,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+44.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+45.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": 46,
-      "name": "",
-      "description": "",
-      "weight": "",
-      "imgUrl": "+46.jpg",
-      "secondaryImg": [
-        {
-          "url": ""
-        }
-      ]
+      "name": "Peridot cube",
+      "imgUrl": "43.jpg"
     }
   ]
 }

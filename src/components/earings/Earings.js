@@ -30,9 +30,9 @@ class Earrings extends React.Component {
         document
           .getElementsByClassName('overlayProduct')
           ['0'].classList.remove('hidden');
-        document
-          .getElementsByClassName('modal-img-tag')
-          ['0'].src=`${imgPath}${Product.imgUrl}` ;
+        document.getElementsByClassName('modal-img-tag')[
+          '0'
+        ].src = `${imgPath}${Product.imgUrl}`;
       }
     } else {
       this.setState({ currentProduct: '' });
@@ -45,9 +45,11 @@ class Earrings extends React.Component {
       }
     }
   };
-  triggerContact = (Product) => {
-    window.location.href = `mailto:antopgems@gmail.com?subject=Purchase of ${Product.name} - Earrings(${Product.id})&body=message%20goes%20here`;
-  }
+  triggerContact = Product => {
+    window.location.href = `mailto:antopgems@gmail.com?subject=Purchase of ${
+      Product.name
+    } - Earrings(${Product.id})&body=message%20goes%20here`;
+  };
   closeProductModal = () => {
     this.setState({ openFullProduct: false }, this.showModal());
   };
@@ -65,19 +67,22 @@ class Earrings extends React.Component {
             {Products.map((key, val) => (
               <Col className="product_container gutter-row" md={6} xs={24}>
                 <Card
-                  onClick={(e) => this.openFullProduct(e, key)}
+                  onClick={e => this.openFullProduct(e, key)}
                   hoverable
                   id={`productGoldRing${key.id}`}
-                  key={`val-${key.imgUrl}`} 
+                  key={`val-${key.imgUrl}`}
                   className="product"
                   onMouseEnter={() => this.mouseEnter(val)}
                   onMouseLeave={() => this.mouseLeave(val)}
                 >
-                <div className="product_content">
-                <LazyLoad offsetTop={0}>
-                  <img src={`${imgPath}${key.imgUrl}`} className="product_img" />
-                </LazyLoad>
-                </div>
+                  <div className="product_content">
+                    <LazyLoad offsetTop={0}>
+                      <img
+                        src={`${imgPath}${key.imgUrl}`}
+                        className="product_img"
+                      />
+                    </LazyLoad>
+                  </div>
                   <div
                     onMouseEnter={() => this.mouseEnter(val)}
                     onMouseLeave={() => this.mouseLeave(val)}
@@ -85,9 +90,17 @@ class Earrings extends React.Component {
                     className="product_hover"
                   >
                     <div className="product_contact">
-                      <Button type="primary" onClick={() => this.triggerContact(key)} className="contact">Contact Us</Button>
-                      <span onClick={(e) => this.openFullProduct(e, key)}>
+                      <span
+                        type="primary"
+                        onClick={() => this.triggerContact(key)}
+                        className="contact"
+                      >
+                        Contact Us
                       </span>
+                      <span
+                        className="contact_span"
+                        onClick={e => this.openFullProduct(e, key)}
+                      />
                     </div>
                   </div>
                 </Card>
@@ -107,43 +120,67 @@ class Earrings extends React.Component {
           </div>
           <Card className="overlayProduct_spec">
             <div className="overlayProduct-info">
-              <div>
-                {this.state.currentProduct.name}
-              </div>
-                { this.state.currentProduct.description &&
-                  <div>
-                    {this.state.currentProduct.description}
-                  </div>
-                }
-                { this.state.currentProduct.goldweight &&
-                  <div>
-                    Gold Weight - {this.state.currentProduct.goldweight} cts
-                  </div>
-                }
+              <div>{this.state.currentProduct.name}</div>
+              {this.state.currentProduct.description && (
+                <div>{this.state.currentProduct.description}</div>
+              )}
+              {this.state.currentProduct.goldweight && (
+                <div>
+                  Gold Weight - {this.state.currentProduct.goldweight} cts
+                </div>
+              )}
             </div>
-            { this.state.currentProduct.stnInfo &&
+            {this.state.currentProduct.stnInfo && (
               <div className="overlayProduct-info">
-                {this.state.currentProduct.stnInfo['0'].stnName &&
-                  <div><span>Stone -</span> {this.state.currentProduct.stnInfo['0'].stnName}</div> 
-                }
-                {this.state.currentProduct.stnInfo['0'].stnWeight &&
-                  <div><span>Weight -</span> {this.state.currentProduct.stnInfo['0'].stnWeight} cts</div>
-                }
-                {this.state.currentProduct.stnInfo['0'].stnSize &&
-                  <div><span>Size - </span>{this.state.currentProduct.stnInfo['0'].stnSize} </div>
-                }
-                {this.state.currentProduct.stnInfo['0'].stnShape &&
-                  <div><span>Shape - </span>{this.state.currentProduct.stnInfo['0'].stnShape} </div>
-                }
-                {this.state.currentProduct.stnInfo['0'].diamondWeight &&
-                  <div><span>Diamond Weight - </span>{this.state.currentProduct.stnInfo['0'].diamondWeight} cts </div>
-                }
-                {this.state.currentProduct.stnInfo['0'].totalWeight &&
-                  <div><span>Total Weight - </span>{this.state.currentProduct.stnInfo['0'].totalWeight} cts </div>
-                }
+                {this.state.currentProduct.stnInfo['0'].stnName && (
+                  <div>
+                    <span>Stone -</span>{' '}
+                    {this.state.currentProduct.stnInfo['0'].stnName}
+                  </div>
+                )}
+                {this.state.currentProduct.stnInfo['0'].stnWeight && (
+                  <div>
+                    <span>Weight -</span>{' '}
+                    {this.state.currentProduct.stnInfo['0'].stnWeight} cts
+                  </div>
+                )}
+                {this.state.currentProduct.stnInfo['0'].stnSize && (
+                  <div>
+                    <span>Size - </span>
+                    {this.state.currentProduct.stnInfo['0'].stnSize}{' '}
+                  </div>
+                )}
+                {this.state.currentProduct.stnInfo['0'].stnShape && (
+                  <div>
+                    <span>Shape - </span>
+                    {this.state.currentProduct.stnInfo['0'].stnShape}{' '}
+                  </div>
+                )}
+                {this.state.currentProduct.stnInfo['0'].diamondWeight && (
+                  <div>
+                    <span>Diamond Weight - </span>
+                    {
+                      this.state.currentProduct.stnInfo['0'].diamondWeight
+                    } cts{' '}
+                  </div>
+                )}
+                {this.state.currentProduct.stnInfo['0'].totalWeight && (
+                  <div>
+                    <span>Total Weight - </span>
+                    {
+                      this.state.currentProduct.stnInfo['0'].totalWeight
+                    } cts{' '}
+                  </div>
+                )}
               </div>
-            }
-            <Button type="primary" onClick={() => this.triggerContact(this.state.currentProduct)} className="contact overlay_contact">Contact Us</Button>
+            )}
+            <Button
+              type="primary"
+              onClick={() => this.triggerContact(this.state.currentProduct)}
+              className="contact overlay_contact"
+            >
+              Contact Us
+            </Button>
           </Card>
         </div>
       </Row>

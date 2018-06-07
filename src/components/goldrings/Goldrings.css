@@ -11,10 +11,14 @@
   padding: 30px;
   color: white;
 }
-.product_contact .ant-btn-primary {
+.product_contact .contact {
   color: #fff;
   background-color: #000000c9;
   border-color: #001529f0;
+  position: absolute;
+  height: 35px;
+  top: 43%;
+  left: 35%;
 }
 .show-desc .product_contact {
   display: block;
@@ -24,13 +28,6 @@
   top: 0;
   left: 0;
   width: 100%;
-}
-.product_contact button {
-  position: absolute;
-  /*  bottom: 15px;
-  right: 15px;*/
-  top: 43%;
-  left: 35%;
 }
 .product_hover {
   height: 400px;
@@ -85,7 +82,7 @@
   height: 700px;
   width: 700px;
   margin: auto;
-  position:relative;
+  position: relative;
 }
 .modal-img-tag {
   vertical-align: middle;
@@ -100,7 +97,7 @@
   top: 30px;
   right: 30px;
   width: 200px;
-  float:right;
+  float: right;
   background-color: #000000c9;
   border-color: #001529f0;
 }

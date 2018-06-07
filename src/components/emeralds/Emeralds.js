@@ -90,14 +90,17 @@ class Emeralds extends React.Component {
                     className="product_hover"
                   >
                     <div className="product_contact">
-                      <Button
+                      <span
                         type="primary"
                         onClick={() => this.triggerContact(key)}
                         className="contact"
                       >
                         Contact Us
-                      </Button>
-                      <span onClick={e => this.openFullProduct(e, key)} />
+                      </span>
+                      <span
+                        className="contact_span"
+                        onClick={e => this.openFullProduct(e, key)}
+                      />
                     </div>
                   </div>
                 </Card>

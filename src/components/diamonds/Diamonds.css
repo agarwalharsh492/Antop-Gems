@@ -1,0 +1,9 @@
+.product_diamonds.product {
+  height: auto !important;
+}
+.product_container--diamond {
+  height: 400px !important;
+}
+.product_container--diamond img {
+  height: 350px !important;
+}

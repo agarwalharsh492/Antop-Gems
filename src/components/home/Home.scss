@@ -205,6 +205,47 @@ $grid-gutter: 31px;
 .product_container {
   margin-bottom: 25px;
   height: 370px;
+  transition: transform .5s;
+  position: relative;
+  flex: 1 1 100%;
+  padding: $card-padding;
+  padding: 0;
+  span {
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    background-color: #000000c9;
+    border-color: #001529f0;
+    padding:5px 15px;
+    border-radius:3px;
+    bottom: 15px;
+    left: 20px;
+  }
+  .contact_span {
+    border:none;
+    background:none;
+  }
+  &::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: opacity 2s cubic-bezier(.165, .84, .44, 1);
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .15);
+    content: '';
+    opacity: 0;
+    z-index: -1;
+  }
+
+  &:hover,
+  &:focus {
+    transform: scale3d(1.006, 1.006, 1);
+
+    &::after {
+      opacity: 1;
+    }
+  }
 }
 .zoomer {
   height:15px;
