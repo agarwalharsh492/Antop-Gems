@@ -202,29 +202,34 @@ class Home extends React.Component {
                 <div className="about_ankit about_person" />
               </div>
               <div className="about_company">
-                ANTOP GEMS is a family-owned business. It all started when
-                MR.ram kishan Agarwal (my father) who has been working with
-                precious gems specially Zambian emeralds for over 35 years.
-                Started his company BINDAL GEMS and he established a successful
-                business and was later joined by me (ANKIT AGARWAL) who from a
-                very young age worked with his father and now opened his new
-                firm ANTOP GEMS. ANTOP GEMS has been offering a full range of
-                diamond beads, loose emeralds, rubies, semi precious stones and
-                sapphires as well as gold and silver designer settings and
-                custom designed pieces in the best price. Please feel free to
-                ask us for any requirement in precious or semi precious stones
-                and jewellery, Our factory is conveniently located in Jaipur
-                (India). Customers trust is all we need. Please have a look into
-                our website: antopgems.com Our mission is to provide the finest
-                quality bespoke jewelry and single and matched-pair loose stones
-                at wholesale prices Located in the heart of JAIPUR, ANTOP GEMS
-                is the online extension of our 25+ year old wholesale gemstones
-                business All of our gems are 100% natural - we do not carry
-                lab-created or synthetic gemstones - and most stones are
-                certified by distinguished, independent gemstone laboratories.
-                We specialize in rings, pendants, earrings, and bracelets
-                featuring sapphires, rubies, emeralds, alexandrites, tsavorites,
-                and fine diamonds.
+                <p>
+                  ANTOP GEMS is a family-owned business. It started when Mr. Ram
+                  Kishan Agarwal who has been working with precious gems
+                  specially Zambian emeralds for over 35 years, started his
+                  company BINDAL GEMS and established a successful business and
+                  was later joined by Ankit Agarwal who from a very young age
+                  worked with his father and now opened his new firm ANTOP GEMS.
+                </p>
+                <p>
+                  We are offering a full range of diamond beads, loose emeralds,
+                  rubies, semi precious stones and sapphires as well as gold and
+                  silver designer settings and custom designed pieces in the
+                  best price. Please feel free to ask us for any requirement in
+                  precious or semi precious stones and jewellery. Customers
+                  trust is all we need. Our mission is to provide the finest
+                  quality bespoke jewelry and single and matched-pair loose
+                  stones at wholesale prices.{' '}
+                </p>
+                <p>
+                  Located in the heart of Jaipur(India), ANTOP GEMS is the
+                  online extension of our 25+ year old wholesale gemstones
+                  business. All our gems are 100% natural - we do not carry
+                  lab-created or synthetic gemstones - and most stones are
+                  certified by distinguished, independent gemstone laboratories.
+                  We specialize in rings, pendants, earrings, and bracelets
+                  featuring sapphires, rubies, emeralds, alexandrites,
+                  tsavorites, and fine diamonds.
+                </p>
               </div>
             </Row>
             <Row>

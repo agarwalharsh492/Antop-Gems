@@ -3,6 +3,9 @@ $color-bg: #f8f8f8;
 $card-padding: 20px;
 $grid-gutter: 31px;
 
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Lucida Grande";
+}
 .container {
   margin: 0 50px;
 }
@@ -55,6 +58,7 @@ $grid-gutter: 31px;
   text-align: center;
   font-weight: 300;
   margin-bottom: 0;
+  padding-top: 30px;
 }
 .product {
   background-size: contain;
@@ -276,7 +280,7 @@ $grid-gutter: 31px;
     background-size: cover;
     border-radius: 100%;
     background-position-y: -50px;
-    margin-bottom:40px;
+    margin-bottom:80px;
   }
   &_company {
     margin-top:75px;

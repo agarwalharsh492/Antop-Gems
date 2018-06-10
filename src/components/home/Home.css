@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue',
+    'Lucida Grande';
+}
+
 .container {
   margin: 0 50px;
 }
@@ -61,6 +66,7 @@
   text-align: center;
   font-weight: 300;
   margin-bottom: 0;
+  padding-top: 30px;
 }
 
 .product {
@@ -297,7 +303,7 @@
   background-size: cover;
   border-radius: 100%;
   background-position-y: -50px;
-  margin-bottom: 40px;
+  margin-bottom: 80px;
 }
 .about_company {
   margin-top: 75px;
