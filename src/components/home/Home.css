@@ -319,8 +319,29 @@ body {
 
 .footer {
   background: #000000d6;
-  padding: 25px;
+  position: relative;
+  margin-top: 40px;
+  padding: 40px;
   color: white;
   font-size: 12px;
   line-height: 2;
+}
+.footer-contact {
+  font-size: 15px;
+}
+.footer .paypal {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  font-size: 13px;
+}
+.footer .paypal img {
+  background: #fff;
+  width: 105px;
+}
+.footer .paypal div {
+  margin-top: 10px;
+}
+.footer h2 {
+  color: #fff;
 }

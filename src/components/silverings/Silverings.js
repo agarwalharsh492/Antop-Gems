@@ -60,7 +60,17 @@ class Silverrings extends React.Component {
     }
   };
   render() {
-    let Products = data['products'];
+    let Products = [];
+    for (let i = 1; i < 273; i++) {
+      let obj = {
+        id: i,
+        name: '',
+        description: '',
+        weight: '',
+        imgUrl: `+${i}.jpg`
+      };
+      Products.push(obj);
+    }
     return (
       <Row>
         {Products && (

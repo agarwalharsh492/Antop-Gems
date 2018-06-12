@@ -26,6 +26,7 @@ import {
 // import { bannerManager } from 'actions';
 import './Home.css';
 import siteLogo from './logo.png';
+import paypalLogo from './paypal.png';
 
 import Diamonds from '../diamonds/Diamonds';
 import Emeralds from '../emeralds/Emeralds';
@@ -126,7 +127,12 @@ class Home extends React.Component {
         <Row>
           <Col md={24} xs={24}>
             <div className="ap__bg" />
-            <span id="category">Browse Our Collections</span>
+            <span
+              id="category"
+              onClick={() => this.updateCurrentCateogry('Diamond Beads')}
+            >
+              Browse Our Collections
+            </span>
           </Col>
         </Row>
         <div className="container">
@@ -261,6 +267,36 @@ class Home extends React.Component {
           </Row>
         </div>
         <Row className="footer">
+          <div className="footer-contact">
+            <h2>Contact Us</h2>
+            <p>
+              <div className="ap__navbar__logo">
+                <a href="/">
+                  <img
+                    src={siteLogo}
+                    width="auto"
+                    height="67"
+                    alt="Antop Gems"
+                  />
+                </a>
+              </div>
+            </p>
+            <p>
+              <span>Address : </span>2014, Pitliyon Ka Chowk, Johari Bazar,
+            </p>
+            <p>Jaipur(Pin - 302001)</p>
+            <p>
+              <span>Email : </span>
+              <a href="mailto:antopgems@gmail.com"> antopgems@gmail.com</a>
+            </p>
+            <p>
+              <span>Mobile : </span> (+91) 9929721345
+            </p>
+            <div className="paypal">
+              <img src={paypalLogo} width="auto" height="67" alt="Antop Gems" />
+              <div>We Accept PayPal</div>
+            </div>
+          </div>
           <div>
             ** Terms and conditions - International Shipping - Orders are
             dispatched in 5 to 10 working days. International deliveries will be
@@ -274,8 +310,9 @@ class Home extends React.Component {
             in order to release the goods. Unfortunately, we are unable to state
             the exact amount of such charges at the time an order is placed
             since charges vary widely between states and countries. For all
-            other queries, please e-mail us at ANTOPGEMS@GMAIL.COM and we will
-            be happy to help.
+            other queries, please e-mail us at{' '}
+            <a href="mailto:antopgems@gmail.com"> ANTOPGEMS@GMAIL.COM</a> and we
+            will be happy to help.
           </div>
         </Row>
       </main>
