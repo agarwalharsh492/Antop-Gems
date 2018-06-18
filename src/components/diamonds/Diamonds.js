@@ -74,10 +74,13 @@ class Diamonds extends React.Component {
           onCancel={this.closeProductModal}
         >
           <div className="zoomer">
+            <span>
+              <img src={zoom} className="zoom-img" />Hover Image to zoom
+            </span>
             <ReactImageMagnify
               {...{
                 smallImage: {
-                  alt: 'Wristwatch by Ted Baker London',
+                  alt: 'Diamond',
                   isFluidWidth: true,
                   src: `${imgPath}${this.state.currentProduct.imgUrl}`,
                   isFluidWidth: true,
@@ -96,7 +99,7 @@ class Diamonds extends React.Component {
               }}
             />
           </div>
-          <Card>
+          <div className="productInfo">
             <div className="overlayProduct-info">
               <div>{this.state.currentProduct.name}</div>
               {this.state.currentProduct.description && (
@@ -155,11 +158,11 @@ class Diamonds extends React.Component {
             <Button
               type="primary"
               onClick={() => this.triggerContact(this.state.currentProduct)}
-              className="contact overlay_contact"
+              className="contact overlay_contact overlay_contact-diamond"
             >
               Contact Us
             </Button>
-          </Card>
+          </div>
         </Modal>
         {Products && (
           <Row gutter={30}>

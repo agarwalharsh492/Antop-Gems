@@ -334,4 +334,30 @@ body {
 .zoomer {
   width:45%;
   height: 80%;
+  display:inline-block;
+  span {
+    color: black;
+    font-size: 10px;
+  }
+  .zoom-img {
+    height: 10px;
+    width: 10px;
+  }
 }
+.productInfo {
+  display: inline-block;
+  width: 45%;
+  vertical-align: top;
+  padding: 20px;
+  font-size: 15px;
+  line-height: 2;
+  font-weight: 500;
+  .overlayProduct-info {
+    width:100%;
+  }
+}
+.overlay_contact-diamond {
+  position:absolute !important;
+  top:10px !important;
+  right:150px !important; 
+} 
