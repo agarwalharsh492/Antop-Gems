@@ -298,19 +298,18 @@ class Home extends React.Component {
             </div>
           </div>
           <div>
-            ** Terms and conditions - International Shipping - Orders are
-            dispatched in 5 to 10 working days. International deliveries will be
-            made by DHL or DPDS and a tracking code will be provided in the
-            confirmation email once the order has been processed. The following
-            will attract additional charges: Delivery to a remote location.
-            Note: International shipments sometimes may attract additional
-            duties and taxes that may be levied on an order once it has reached
-            the destination state or country. In all cases, the customer is
-            liable to clear any such additional charges with the courier company
-            in order to release the goods. Unfortunately, we are unable to state
+            ** Terms and conditions - International deliveries will be made by
+            DHL or DPDS and a tracking code will be provided in the confirmation
+            email once the order has been processed. The following will attract
+            additional charges: Delivery to a remote location. Note:
+            International shipments sometimes may attract additional duties and
+            taxes that may be levied on an order once it has reached the
+            destination state or country. In all cases, the customer is liable
+            to clear any such additional charges with the courier company in
+            order to release the goods. Unfortunately, we are unable to state
             the exact amount of such charges at the time an order is placed
-            since charges vary widely between states and countries. For all
-            other queries, please e-mail us at{' '}
+            since charges vary widely between states and countries. For pricing
+            details and all other queries, please e-mail us at{' '}
             <a href="mailto:antopgems@gmail.com"> ANTOPGEMS@GMAIL.COM</a> and we
             will be happy to help.
           </div>

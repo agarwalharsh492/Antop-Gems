@@ -75,7 +75,7 @@ class Diamonds extends React.Component {
         >
           <div className="zoomer">
             <span>
-              <img src={zoom} className="zoom-img" />Hover Image to zoom
+              <img src={zoom} className="zoom-img" />Hover on Image to zoom
             </span>
             <ReactImageMagnify
               {...{

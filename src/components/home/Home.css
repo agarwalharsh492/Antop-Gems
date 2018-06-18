@@ -390,3 +390,8 @@ body {
   top: 10px !important;
   right: 150px !important;
 }
+
+.ant-modal-content {
+  max-height: 700px;
+  overflow: hidden;
+}
