@@ -12,10 +12,6 @@ const { Content } = Layout;
 const data = require('./data.json');
 const zoom = require('../../images/zoom.svg');
 const imgPath = 'https://s3.ap-south-1.amazonaws.com/antopgems.com/diamonds/';
-const watchImg300 =
-  'https://s3.ap-south-1.amazonaws.com/antopgems.com/diamonds/1.jpg';
-const watchImg1200 =
-  'https://s3.ap-south-1.amazonaws.com/antopgems.com/diamonds/1.jpg';
 
 class Diamonds extends React.Component {
   state = {
