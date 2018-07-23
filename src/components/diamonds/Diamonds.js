@@ -12,6 +12,8 @@ const { Content } = Layout;
 const data = require('./data.json');
 const zoom = require('../../images/zoom.svg');
 const imgPath = 'https://s3.ap-south-1.amazonaws.com/antopgems.com/diamonds/';
+const imgPathOriginal =
+  'https://s3.ap-south-1.amazonaws.com/antopgems.com/diamondsOriginal/';
 
 class Diamonds extends React.Component {
   state = {
@@ -78,7 +80,7 @@ class Diamonds extends React.Component {
                 smallImage: {
                   alt: 'Diamond',
                   isFluidWidth: true,
-                  src: `${imgPath}${this.state.currentProduct.imgUrl}`,
+                  src: `${imgPathOriginal}${this.state.currentProduct.imgUrl}`,
                   isFluidWidth: true,
                   className: 'smallImage',
                   imageClassName: 'smallImage',
@@ -86,7 +88,7 @@ class Diamonds extends React.Component {
                   height: 700
                 },
                 largeImage: {
-                  src: `${imgPath}${this.state.currentProduct.imgUrl}`,
+                  src: `${imgPathOriginal}${this.state.currentProduct.imgUrl}`,
                   isFluidWidth: true,
                   className: 'largeImage',
                   width: 700,
