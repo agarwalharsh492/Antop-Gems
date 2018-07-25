@@ -70,29 +70,9 @@ class Emeralds extends React.Component {
           onCancel={this.closeProductModal}
         >
           <div className="zoomer">
-            <span>
-              <img src={zoom} className="zoom-img" />Hover on Image to zoom
-            </span>
-            <ReactImageMagnify
-              {...{
-                smallImage: {
-                  alt: 'Emerald',
-                  isFluidWidth: true,
-                  src: `${imgPath}${this.state.currentProduct.imgUrl}`,
-                  isFluidWidth: true,
-                  className: 'smallImage',
-                  imageClassName: 'smallImage',
-                  width: 700,
-                  height: 700
-                },
-                largeImage: {
-                  src: `${imgPath}${this.state.currentProduct.imgUrl}`,
-                  isFluidWidth: true,
-                  className: 'largeImage',
-                  width: 700,
-                  height: 700
-                }
-              }}
+            <img
+              src={`${imgPath}${this.state.currentProduct.imgUrl}`}
+              className="zoom-img"
             />
           </div>
           <div className="productInfo">

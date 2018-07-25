@@ -72,29 +72,9 @@ class Diamonds extends React.Component {
           onCancel={this.closeProductModal}
         >
           <div className="zoomer">
-            <span>
-              <img src={zoom} className="zoom-img" />Hover on Image to zoom
-            </span>
-            <ReactImageMagnify
-              {...{
-                smallImage: {
-                  alt: 'Diamond',
-                  isFluidWidth: true,
-                  src: `${imgPathOriginal}${this.state.currentProduct.imgUrl}`,
-                  isFluidWidth: true,
-                  className: 'smallImage',
-                  imageClassName: 'smallImage',
-                  width: 700,
-                  height: 700
-                },
-                largeImage: {
-                  src: `${imgPathOriginal}${this.state.currentProduct.imgUrl}`,
-                  isFluidWidth: true,
-                  className: 'largeImage',
-                  width: 700,
-                  height: 700
-                }
-              }}
+            <img
+              src={`${imgPathOriginal}${this.state.currentProduct.imgUrl}`}
+              className="zoom-img"
             />
           </div>
           <div className="productInfo">
